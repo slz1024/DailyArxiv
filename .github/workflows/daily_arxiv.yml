@@ -46,7 +46,7 @@ jobs:
           force-add: 'true'
           files: README.md .github/ISSUE_TEMPLATE.md
           name: Yongqi Huang
-          email: yqhuang@tju.edu.cn
+          email:shanlz2119@tju.edu.cn
 
       - name: Create an issue to notify
         uses: JasonEtco/create-an-issue@v2
