@@ -4,6 +4,12 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
 
+## Graph Pre-training
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models](http://arxiv.org/abs/2405.13934v4)** | 2024-09-22 | Under review |
+| **[Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks](http://arxiv.org/abs/2311.01038v2)** | 2023-11-21 |  |
+
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
