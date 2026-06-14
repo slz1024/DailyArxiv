@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 10, 2026
+title: Latest 10 Papers - June 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Pre-training
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MLaGA: Multimodal Large Language and Graph Assistant](https://arxiv.org/abs/2506.02568v2)** | 2026-06-10 |  |
 | **[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](https://arxiv.org/abs/2606.10284v1)** | 2026-06-09 | 24 pages,6 figures |
 | **[Unified Multi-Domain Graph Pre-training for Homogeneous and Heterogeneous Graphs via Domain-Specific Expert Encoding](https://arxiv.org/abs/2602.13075v2)** | 2026-05-27 | 12 pages, 7 figures |
 | **[MDGMIX: Boundary-Aware Subgraph Mixing for Multi-Domain Graph Pre-Training](https://arxiv.org/abs/2605.25771v1)** | 2026-05-25 | Accepted by ICML2026 |
@@ -16,11 +17,11 @@ labels: documentation
 | **[MUG: Meta-path-aware Universal Heterogeneous Graph Pre-Training](https://arxiv.org/abs/2602.22645v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by AAAI-26, 9 pages, 3 figures</p></details> |
 | **[Aligning the Spectrum: Hybrid Graph Pre-training and Prompt Tuning across Homophily and Heterophily](https://arxiv.org/abs/2508.11328v3)** | 2026-01-12 | Under Review |
 | **[Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks](https://arxiv.org/abs/2511.17989v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026(Oral)</p></details> |
-| **[A Graph Laplacian Eigenvector-based Pre-training Method for Graph Neural Networks](https://arxiv.org/abs/2509.02803v3)** | 2025-11-09 |  |
 
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](https://arxiv.org/abs/2510.04567v3)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the GFM @ ICML 2026 Workshop</p></details> |
 | **[Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks](https://arxiv.org/abs/2606.08306v1)** | 2026-06-06 |  |
 | **[The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning](https://arxiv.org/abs/2606.06397v2)** | 2026-06-05 | <details><summary>Comme...</summary><p>Comments: Suggestions and comments are welcomed</p></details> |
 | **[HEIST: A Graph Foundation Model for Spatial Transcriptomics and Proteomics Data](https://arxiv.org/abs/2506.11152v4)** | 2026-06-04 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Are Common Substructures Transferable? Riemannian Graph Foundation Model with Neural Vector Bundles](https://arxiv.org/abs/2606.03270v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[GraphARC: A Comprehensive Benchmark for Graph-Based Abstract Reasoning](https://arxiv.org/abs/2605.31031v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 Datasets and Benchmarks Track</p></details> |
 | **[When Do Graph Foundation Models Transfer? A Data-Centric Theory](https://arxiv.org/abs/2605.29828v1)** | 2026-05-28 | <details><summary>21 pa...</summary><p>21 pages, including appendix. Accepted at ICML 2026</p></details> |
-| **[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](https://arxiv.org/abs/2605.14809v2)** | 2026-05-26 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,6 +49,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward General Digraph Contrastive Learning: A Dual Spatial Perspective](https://arxiv.org/abs/2510.16311v2)** | 2026-06-11 |  |
 | **[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](https://arxiv.org/abs/2606.10284v1)** | 2026-06-09 | 24 pages,6 figures |
 | **[Safe-Subspace Pseudo-Label Refinement for Source-Free Graph Domain Adaptation](https://arxiv.org/abs/2606.00808v1)** | 2026-05-30 |  |
 | **[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://arxiv.org/abs/2510.03690v4)** | 2026-05-29 |  |
@@ -58,19 +59,18 @@ labels: documentation
 | **[A Unified Perspective for Learning Graph Representations Across Multi-Level Abstractions](https://arxiv.org/abs/2605.12685v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Knowledge and Data Engineering (TKDE). 18 pages, 8 figures</p></details> |
 | **[Fractal Graph Contrastive Learning](https://arxiv.org/abs/2505.11356v4)** | 2026-05-12 | 32 pages, 7 figures |
 | **[Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](https://arxiv.org/abs/2511.06216v4)** | 2026-05-10 | <details><summary>Machi...</summary><p>Machine learning, diffusion neural networks. arXiv admin note: text overlap with arXiv:2504.16748</p></details> |
-| **[Less is More: Towards Simple Graph Contrastive Learning](https://arxiv.org/abs/2509.25742v4)** | 2026-05-10 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CableRobotGraphSim: A Graph Neural Network for Modeling Partially Observable Cable-Driven Robot Dynamics](https://arxiv.org/abs/2602.21331v2)** | 2026-06-09 |  |
-| **[Non-linear mechanical field reconstruction coupling recurrent neural networks with physics-informed graph neural networks](https://arxiv.org/abs/2606.10909v1)** | 2026-06-09 |  |
-| **[Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention](https://arxiv.org/abs/2603.10676v2)** | 2026-06-09 | 33 pages, 7 figures |
-| **[Boosting Graph Robustness Against Backdoor Attacks: An Over-Similarity Perspective](https://arxiv.org/abs/2502.01272v3)** | 2026-06-09 | <details><summary>After...</summary><p>After discussions with one of the co-authors, it was decided that this version should not be made public at this time. To respect the co-author's perspective and ensure alignment among all authors, I am requesting the withdrawal of this article</p></details> |
-| **[ERAlign: Energy-based Representation Alignment of GNNs and LLMs on Text-attributed Graphs](https://arxiv.org/abs/2606.10461v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[When Design Rules Break: Benchmark Composition Determines Whether Label Informativeness Predicts GNN Aggregator Choice](https://arxiv.org/abs/2606.10249v1)** | 2026-06-08 |  |
-| **[GRAFT: Graphlet-Triggered Backdoor Attack on GNN-Based Hardware Security Systems](https://arxiv.org/abs/2606.10163v1)** | 2026-06-08 |  |
-| **[A Graphop Analysis of Graph Neural Networks on Sparse Graphs: Generalization and Universal Approximation](https://arxiv.org/abs/2602.08785v2)** | 2026-06-08 |  |
-| **[Efficient Traffic Prediction at Scale: A Systematic Study of STGCN Architectural Depth](https://arxiv.org/abs/2606.09539v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE ITSC (2026)</p></details> |
-| **[Graph-to-SFILES: Control structure prediction from process topologies using generative artificial intelligence](https://arxiv.org/abs/2412.00508v2)** | 2026-06-08 |  |
+| **[Understanding Truncated Positional Encodings for Graph Neural Networks](https://arxiv.org/abs/2606.13671v1)** | 2026-06-11 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, ICML 2026</p></details> |
+| **[Clustering Node Attributed Networks with Graph Neural Networks and Self Learning](https://arxiv.org/abs/2606.13444v1)** | 2026-06-11 |  |
+| **[OR-Action: Multi-Role Video Understanding with Fine-Grained Actions](https://arxiv.org/abs/2606.13332v1)** | 2026-06-11 |  |
+| **[MP3: Multi-Period Pattern Pre-training forSpatio-Temporal Forecasting](https://arxiv.org/abs/2606.13119v1)** | 2026-06-11 |  |
+| **[PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation](https://arxiv.org/abs/2512.21227v3)** | 2026-06-11 | 53 pages, 6 figures |
+| **[Physics-Aware Auxiliary Losses Improve Out-of-Distribution Generalization of a GNN Synthesizability Filter](https://arxiv.org/abs/2606.12651v1)** | 2026-06-10 |  |
+| **[Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems](https://arxiv.org/abs/2603.29515v2)** | 2026-06-10 |  |
+| **[Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](https://arxiv.org/abs/2606.11946v1)** | 2026-06-10 | 37 pages |
+| **[Modelling magnetic material properties with uncertainty-aware neural networks](https://arxiv.org/abs/2606.11870v1)** | 2026-06-10 | <details><summary>pre p...</summary><p>pre print, unreviewed version</p></details> |
+| **[SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT](https://arxiv.org/abs/2606.11803v1)** | 2026-06-10 | 11 pages, 14 figures |
 
