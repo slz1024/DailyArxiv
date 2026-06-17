@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 14, 2026
+title: Latest 10 Papers - June 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Pre-training
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Handling Feature Heterogeneity with Learnable Graph Patches](https://arxiv.org/abs/2606.17667v1)** | 2026-06-16 | Accepted at KDD 2025 |
 | **[MLaGA: Multimodal Large Language and Graph Assistant](https://arxiv.org/abs/2506.02568v2)** | 2026-06-10 |  |
 | **[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](https://arxiv.org/abs/2606.10284v1)** | 2026-06-09 | 24 pages,6 figures |
 | **[Unified Multi-Domain Graph Pre-training for Homogeneous and Heterogeneous Graphs via Domain-Specific Expert Encoding](https://arxiv.org/abs/2602.13075v2)** | 2026-05-27 | 12 pages, 7 figures |
@@ -16,11 +17,13 @@ labels: documentation
 | **[LEDA: Latent Semantic Distribution Alignment for Multi-domain Graph Pre-training](https://arxiv.org/abs/2602.22660v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by WWW-26, 12 pages, 2 figures</p></details> |
 | **[MUG: Meta-path-aware Universal Heterogeneous Graph Pre-Training](https://arxiv.org/abs/2602.22645v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by AAAI-26, 9 pages, 3 figures</p></details> |
 | **[Aligning the Spectrum: Hybrid Graph Pre-training and Prompt Tuning across Homophily and Heterophily](https://arxiv.org/abs/2508.11328v3)** | 2026-01-12 | Under Review |
-| **[Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks](https://arxiv.org/abs/2511.17989v1)** | 2025-11-22 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026(Oral)</p></details> |
 
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Half a Link can Be Enough to Predict a Whole Link: Understanding Generalization in Knowledge Graph Foundation Models](https://arxiv.org/abs/2606.18001v1)** | 2026-06-16 |  |
+| **[Handling Feature Heterogeneity with Learnable Graph Patches](https://arxiv.org/abs/2606.17667v1)** | 2026-06-16 | Accepted at KDD 2025 |
+| **[Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling](https://arxiv.org/abs/2605.27023v3)** | 2026-06-16 |  |
 | **[GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](https://arxiv.org/abs/2510.04567v3)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the GFM @ ICML 2026 Workshop</p></details> |
 | **[Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks](https://arxiv.org/abs/2606.08306v1)** | 2026-06-06 |  |
 | **[The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning](https://arxiv.org/abs/2606.06397v2)** | 2026-06-05 | <details><summary>Comme...</summary><p>Comments: Suggestions and comments are welcomed</p></details> |
@@ -28,9 +31,6 @@ labels: documentation
 | **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v2)** | 2026-06-03 | Accepted by KDD2026 |
 | **[A Graph Foundation Model with Spectral Parsing and Prototype-Guided Spatial Propagation](https://arxiv.org/abs/2606.03315v1)** | 2026-06-02 |  |
 | **[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://arxiv.org/abs/2606.03290v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Are Common Substructures Transferable? Riemannian Graph Foundation Model with Neural Vector Bundles](https://arxiv.org/abs/2606.03270v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[GraphARC: A Comprehensive Benchmark for Graph-Based Abstract Reasoning](https://arxiv.org/abs/2605.31031v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at KDD 2026 Datasets and Benchmarks Track</p></details> |
-| **[When Do Graph Foundation Models Transfer? A Data-Centric Theory](https://arxiv.org/abs/2605.29828v1)** | 2026-05-28 | <details><summary>21 pa...</summary><p>21 pages, including appendix. Accepted at ICML 2026</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,6 +49,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](https://arxiv.org/abs/2505.17786v6)** | 2026-06-15 | ICML 2026 |
+| **[Timestamp-Aware Spatio-Temporal Graph Contrastive Learning for Network Intrusion Detection](https://arxiv.org/abs/2606.17109v1)** | 2026-06-15 |  |
 | **[Toward General Digraph Contrastive Learning: A Dual Spatial Perspective](https://arxiv.org/abs/2510.16311v2)** | 2026-06-11 |  |
 | **[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](https://arxiv.org/abs/2606.10284v1)** | 2026-06-09 | 24 pages,6 figures |
 | **[Safe-Subspace Pseudo-Label Refinement for Source-Free Graph Domain Adaptation](https://arxiv.org/abs/2606.00808v1)** | 2026-05-30 |  |
@@ -57,20 +59,18 @@ labels: documentation
 | **[GCIB: Graph Contrastive Information Bottleneck for Multi-Behavior Recommendation](https://arxiv.org/abs/2605.25690v1)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Camera-ready version</p></details> |
 | **[Distance-Aware Joint Spatio-Temporal Graph Contrastive Learning for Major Depressive Disorder Diagnosis](https://arxiv.org/abs/2605.24066v1)** | 2026-05-22 |  |
 | **[A Unified Perspective for Learning Graph Representations Across Multi-Level Abstractions](https://arxiv.org/abs/2605.12685v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Knowledge and Data Engineering (TKDE). 18 pages, 8 figures</p></details> |
-| **[Fractal Graph Contrastive Learning](https://arxiv.org/abs/2505.11356v4)** | 2026-05-12 | 32 pages, 7 figures |
-| **[Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](https://arxiv.org/abs/2511.06216v4)** | 2026-05-10 | <details><summary>Machi...</summary><p>Machine learning, diffusion neural networks. arXiv admin note: text overlap with arXiv:2504.16748</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding Truncated Positional Encodings for Graph Neural Networks](https://arxiv.org/abs/2606.13671v1)** | 2026-06-11 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, ICML 2026</p></details> |
-| **[Clustering Node Attributed Networks with Graph Neural Networks and Self Learning](https://arxiv.org/abs/2606.13444v1)** | 2026-06-11 |  |
-| **[OR-Action: Multi-Role Video Understanding with Fine-Grained Actions](https://arxiv.org/abs/2606.13332v1)** | 2026-06-11 |  |
-| **[MP3: Multi-Period Pattern Pre-training forSpatio-Temporal Forecasting](https://arxiv.org/abs/2606.13119v1)** | 2026-06-11 |  |
-| **[PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation](https://arxiv.org/abs/2512.21227v3)** | 2026-06-11 | 53 pages, 6 figures |
-| **[Physics-Aware Auxiliary Losses Improve Out-of-Distribution Generalization of a GNN Synthesizability Filter](https://arxiv.org/abs/2606.12651v1)** | 2026-06-10 |  |
-| **[Variational Graph Neural Networks for Uncertainty Quantification in Inverse Problems](https://arxiv.org/abs/2603.29515v2)** | 2026-06-10 |  |
-| **[Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data](https://arxiv.org/abs/2606.11946v1)** | 2026-06-10 | 37 pages |
-| **[Modelling magnetic material properties with uncertainty-aware neural networks](https://arxiv.org/abs/2606.11870v1)** | 2026-06-10 | <details><summary>pre p...</summary><p>pre print, unreviewed version</p></details> |
-| **[SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT](https://arxiv.org/abs/2606.11803v1)** | 2026-06-10 | 11 pages, 14 figures |
+| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v3)** | 2026-06-16 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
+| **[EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator](https://arxiv.org/abs/2506.05797v3)** | 2026-06-16 | <details><summary>SIGKD...</summary><p>SIGKDD 2026 Oral AI4S Track. 20 pages, 16 figures</p></details> |
+| **[Structural Preservation and the Logical Expressiveness of Graph Neural Networks](https://arxiv.org/abs/2606.17882v1)** | 2026-06-16 | 20 pages |
+| **[Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs](https://arxiv.org/abs/2401.14381v3)** | 2026-06-16 | <details><summary>Exten...</summary><p>Extended ADNI experiment</p></details> |
+| **[Geometrical fairness in graph neural networks](https://arxiv.org/abs/2606.17684v1)** | 2026-06-16 | <details><summary>32 pa...</summary><p>32 pages, 21 tables, 6 figures</p></details> |
+| **[LLM Features Can Hurt GNNs: Concatenation Interference on Homophilous Graph Benchmarks](https://arxiv.org/abs/2606.17579v1)** | 2026-06-16 | 29 pages, 8 figures |
+| **[Graph Neural Networks for Semi-Supervised Image Classification with Multi-Feature Aggregation](https://arxiv.org/abs/2606.17406v1)** | 2026-06-16 |  |
+| **[Finsler Geometry, Graph Neural Networks, and You](https://arxiv.org/abs/2606.17185v1)** | 2026-06-15 |  |
+| **[Graph Learning Should Move Beyond Restrictive Views of Spectral and Message-Passing GNNs](https://arxiv.org/abs/2602.10031v2)** | 2026-06-15 | 44 pages, 1 figure |
+| **[TCHG: Tri-Trust Conditioned Heterogeneous Graph Learning for Reliable Dynamic Trust Prediction](https://arxiv.org/abs/2606.16611v1)** | 2026-06-15 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 13 tables</p></details> |
 
