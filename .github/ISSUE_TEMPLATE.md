@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 17, 2026
+title: Latest 10 Papers - June 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,9 +49,9 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward General Digraph Contrastive Learning: A Dual Spatial Perspective](https://arxiv.org/abs/2510.16311v3)** | 2026-06-18 |  |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](https://arxiv.org/abs/2505.17786v6)** | 2026-06-15 | ICML 2026 |
 | **[Timestamp-Aware Spatio-Temporal Graph Contrastive Learning for Network Intrusion Detection](https://arxiv.org/abs/2606.17109v1)** | 2026-06-15 |  |
-| **[Toward General Digraph Contrastive Learning: A Dual Spatial Perspective](https://arxiv.org/abs/2510.16311v2)** | 2026-06-11 |  |
 | **[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](https://arxiv.org/abs/2606.10284v1)** | 2026-06-09 | 24 pages,6 figures |
 | **[Safe-Subspace Pseudo-Label Refinement for Source-Free Graph Domain Adaptation](https://arxiv.org/abs/2606.00808v1)** | 2026-05-30 |  |
 | **[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://arxiv.org/abs/2510.03690v4)** | 2026-05-29 |  |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Regression Language Models for Code](https://arxiv.org/abs/2509.26476v3)** | 2026-06-16 | <details><summary>Publi...</summary><p>Published in International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[EqCollide: Equivariant and Collision-Aware Deformable Objects Neural Simulator](https://arxiv.org/abs/2506.05797v3)** | 2026-06-16 | <details><summary>SIGKD...</summary><p>SIGKDD 2026 Oral AI4S Track. 20 pages, 16 figures</p></details> |
-| **[Structural Preservation and the Logical Expressiveness of Graph Neural Networks](https://arxiv.org/abs/2606.17882v1)** | 2026-06-16 | 20 pages |
-| **[Manifold GCN: Diffusion-based Convolutional Neural Network for Manifold-valued Graphs](https://arxiv.org/abs/2401.14381v3)** | 2026-06-16 | <details><summary>Exten...</summary><p>Extended ADNI experiment</p></details> |
-| **[Geometrical fairness in graph neural networks](https://arxiv.org/abs/2606.17684v1)** | 2026-06-16 | <details><summary>32 pa...</summary><p>32 pages, 21 tables, 6 figures</p></details> |
-| **[LLM Features Can Hurt GNNs: Concatenation Interference on Homophilous Graph Benchmarks](https://arxiv.org/abs/2606.17579v1)** | 2026-06-16 | 29 pages, 8 figures |
-| **[Graph Neural Networks for Semi-Supervised Image Classification with Multi-Feature Aggregation](https://arxiv.org/abs/2606.17406v1)** | 2026-06-16 |  |
-| **[Finsler Geometry, Graph Neural Networks, and You](https://arxiv.org/abs/2606.17185v1)** | 2026-06-15 |  |
-| **[Graph Learning Should Move Beyond Restrictive Views of Spectral and Message-Passing GNNs](https://arxiv.org/abs/2602.10031v2)** | 2026-06-15 | 44 pages, 1 figure |
-| **[TCHG: Tri-Trust Conditioned Heterogeneous Graph Learning for Reliable Dynamic Trust Prediction](https://arxiv.org/abs/2606.16611v1)** | 2026-06-15 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 13 tables</p></details> |
+| **[Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](https://arxiv.org/abs/2606.20554v1)** | 2026-06-18 |  |
+| **[HEPTv2: End-to-End Efficient Point Transformer for Charged Particle Reconstruction](https://arxiv.org/abs/2606.20437v1)** | 2026-06-18 |  |
+| **[Capturing Intransitive Dominance in Tennis Forecasting: A Graph Neural Network Approach](https://arxiv.org/abs/2510.20454v2)** | 2026-06-18 | <details><summary>41 pa...</summary><p>41 pages, 7 figures. Major revision reframing the paper from betting-market inefficiency toward intransitivity analysis, forecast complementarity, and robustness. Added forecast-encompassing tests, new intransitivity measures, robustness analyses, and expanded appendices</p></details> |
+| **[Reversible Residual Normalization Alleviates Spatio-Temporal Distribution Shift](https://arxiv.org/abs/2604.15838v2)** | 2026-06-18 |  |
+| **[Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for Crashworthiness Field Prediction under Large Geometric Variation](https://arxiv.org/abs/2605.15231v2)** | 2026-06-18 | <details><summary>48 pa...</summary><p>48 pages, 15 figures, jounral paper under review</p></details> |
+| **[A graph neural network surrogate model for mesh-based crashworthiness prediction of vehicle panel components](https://arxiv.org/abs/2503.17386v2)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted manuscript version. Final published version available in Results in Engineering via DOI: 10.1016/j.rineng.2026.110925</p></details> |
+| **[Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://arxiv.org/abs/2606.20283v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Neural networks as fuzzy logic formulas](https://arxiv.org/abs/2605.03064v2)** | 2026-06-18 |  |
+| **[Pointwise is Pointless? A Multimodal Ablation Study for Precipitation Nowcasting with Graph Neural Networks](https://arxiv.org/abs/2606.18436v2)** | 2026-06-18 |  |
+| **[Towards Graph-Based Deep Learning for Map Generalization: Insights from Building Footprints Simplification and Aggregation](https://arxiv.org/abs/2606.19956v1)** | 2026-06-18 | <details><summary>15 pa...</summary><p>15 pages, 20 figures, 10 tables</p></details> |
 
