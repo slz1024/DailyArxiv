@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 21, 2026
+title: Latest 10 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,9 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Fair Evaluation of Graph Foundation Models for Node Property Prediction](https://arxiv.org/abs/2606.24509v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at The Workshop on Graph Foundation Models at ICML 2026</p></details> |
+| **[Turning Tabular Foundation Models into Graph Foundation Models](https://arxiv.org/abs/2508.20906v3)** | 2026-06-22 |  |
+| **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489v3)** | 2026-06-22 |  |
 | **[Half a Link can Be Enough to Predict a Whole Link: Understanding Generalization in Knowledge Graph Foundation Models](https://arxiv.org/abs/2606.18001v1)** | 2026-06-16 |  |
 | **[Handling Feature Heterogeneity with Learnable Graph Patches](https://arxiv.org/abs/2606.17667v1)** | 2026-06-16 | Accepted at KDD 2025 |
 | **[Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling](https://arxiv.org/abs/2605.27023v3)** | 2026-06-16 |  |
@@ -28,13 +31,11 @@ labels: documentation
 | **[Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks](https://arxiv.org/abs/2606.08306v1)** | 2026-06-06 |  |
 | **[The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning](https://arxiv.org/abs/2606.06397v2)** | 2026-06-05 | <details><summary>Comme...</summary><p>Comments: Suggestions and comments are welcomed</p></details> |
 | **[HEIST: A Graph Foundation Model for Spatial Transcriptomics and Proteomics Data](https://arxiv.org/abs/2506.11152v4)** | 2026-06-04 |  |
-| **[Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://arxiv.org/abs/2606.03307v2)** | 2026-06-03 | Accepted by KDD2026 |
-| **[A Graph Foundation Model with Spectral Parsing and Prototype-Guided Spatial Propagation](https://arxiv.org/abs/2606.03315v1)** | 2026-06-02 |  |
-| **[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://arxiv.org/abs/2606.03290v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://arxiv.org/abs/2606.22914v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[CHoE: Cross-Domain Heterogeneous Graph Prompt Learning via Structure-Conditioned Experts](https://arxiv.org/abs/2605.15888v2)** | 2026-06-05 | <details><summary>accep...</summary><p>accepted by IJCAI 2026, 9 pages, 4 figures</p></details> |
 | **[Towards Fair Graph Prompting: A Dual-Prompt Mechanism for Mitigating Attribute and Structural Bias](https://arxiv.org/abs/2510.23469v2)** | 2026-06-02 |  |
 | **[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://arxiv.org/abs/2606.03290v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
@@ -44,7 +45,6 @@ labels: documentation
 | **[Event-Aware Prompt Learning for Dynamic Graphs](https://arxiv.org/abs/2510.11339v2)** | 2026-05-21 | Under review |
 | **[Do LLMs Know What Luxembourgish Borrows? Probing Lexical Neology in Low-Resource Multilingual Models](https://arxiv.org/abs/2605.21227v1)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted to Neollm colocated with LREC2026, Three figures and three tables</p></details> |
 | **[Decoupled and Divergence-Conditioned Prompt for Multi-domain Dynamic Graph Foundation Models](https://arxiv.org/abs/2605.13540v1)** | 2026-05-13 |  |
-| **[Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach](https://arxiv.org/abs/2605.09964v2)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](https://arxiv.org/abs/2606.20554v1)** | 2026-06-18 |  |
-| **[HEPTv2: End-to-End Efficient Point Transformer for Charged Particle Reconstruction](https://arxiv.org/abs/2606.20437v1)** | 2026-06-18 |  |
-| **[Capturing Intransitive Dominance in Tennis Forecasting: A Graph Neural Network Approach](https://arxiv.org/abs/2510.20454v2)** | 2026-06-18 | <details><summary>41 pa...</summary><p>41 pages, 7 figures. Major revision reframing the paper from betting-market inefficiency toward intransitivity analysis, forecast complementarity, and robustness. Added forecast-encompassing tests, new intransitivity measures, robustness analyses, and expanded appendices</p></details> |
-| **[Reversible Residual Normalization Alleviates Spatio-Temporal Distribution Shift](https://arxiv.org/abs/2604.15838v2)** | 2026-06-18 |  |
-| **[Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for Crashworthiness Field Prediction under Large Geometric Variation](https://arxiv.org/abs/2605.15231v2)** | 2026-06-18 | <details><summary>48 pa...</summary><p>48 pages, 15 figures, jounral paper under review</p></details> |
-| **[A graph neural network surrogate model for mesh-based crashworthiness prediction of vehicle panel components](https://arxiv.org/abs/2503.17386v2)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted manuscript version. Final published version available in Results in Engineering via DOI: 10.1016/j.rineng.2026.110925</p></details> |
-| **[Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement](https://arxiv.org/abs/2606.20283v1)** | 2026-06-18 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Neural networks as fuzzy logic formulas](https://arxiv.org/abs/2605.03064v2)** | 2026-06-18 |  |
-| **[Pointwise is Pointless? A Multimodal Ablation Study for Precipitation Nowcasting with Graph Neural Networks](https://arxiv.org/abs/2606.18436v2)** | 2026-06-18 |  |
-| **[Towards Graph-Based Deep Learning for Map Generalization: Insights from Building Footprints Simplification and Aggregation](https://arxiv.org/abs/2606.19956v1)** | 2026-06-18 | <details><summary>15 pa...</summary><p>15 pages, 20 figures, 10 tables</p></details> |
+| **[A Fair Evaluation of Graph Foundation Models for Node Property Prediction](https://arxiv.org/abs/2606.24509v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at The Workshop on Graph Foundation Models at ICML 2026</p></details> |
+| **[Point-Voxel Absorbing Graph Representation Learning for Event Stream based Recognition](https://arxiv.org/abs/2306.05239v3)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted by International Conference on Robotics and Learning (ICRL) 2026</p></details> |
+| **[SEAGAN: domain-Specific and Edge-Aware Graph Attention Network for Dynamic Plant Processes](https://arxiv.org/abs/2606.19623v2)** | 2026-06-23 |  |
+| **[Generating adversarial inputs for a graph neural network model of AC power flow](https://arxiv.org/abs/2602.17975v2)** | 2026-06-23 |  |
+| **[Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](https://arxiv.org/abs/2505.13087v2)** | 2026-06-22 | <details><summary>Inter...</summary><p>International Conference on Machine Learning, Seoul, 2026</p></details> |
+| **[Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients](https://arxiv.org/abs/2606.23834v1)** | 2026-06-22 | 31 pages, 16 figures |
+| **[Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America](https://arxiv.org/abs/2606.23833v1)** | 2026-06-22 |  |
+| **[SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations](https://arxiv.org/abs/2606.23548v1)** | 2026-06-22 | 19 pages, 10 figures |
+| **[Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Networks with Group Lasso Regularization](https://arxiv.org/abs/2507.03318v3)** | 2026-06-22 | 15 pages, 8 figures |
+| **[Rethinking Molecular Graph Backdoors under Chemistry-aware Admission](https://arxiv.org/abs/2606.23361v1)** | 2026-06-22 | 30 pages |
 
