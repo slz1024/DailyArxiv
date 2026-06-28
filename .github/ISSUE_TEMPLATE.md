@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - June 24, 2026
+title: Latest 10 Papers - June 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning](https://arxiv.org/abs/2606.25356v1)** | 2026-06-24 | 34 pages, 4 figures |
 | **[PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://arxiv.org/abs/2606.22914v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[CHoE: Cross-Domain Heterogeneous Graph Prompt Learning via Structure-Conditioned Experts](https://arxiv.org/abs/2605.15888v2)** | 2026-06-05 | <details><summary>accep...</summary><p>accepted by IJCAI 2026, 9 pages, 4 figures</p></details> |
 | **[Towards Fair Graph Prompting: A Dual-Prompt Mechanism for Mitigating Attribute and Structural Bias](https://arxiv.org/abs/2510.23469v2)** | 2026-06-02 |  |
@@ -44,7 +45,6 @@ labels: documentation
 | **[GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks](https://arxiv.org/abs/2602.11629v2)** | 2026-05-22 | 16 pages, 8 figures |
 | **[Event-Aware Prompt Learning for Dynamic Graphs](https://arxiv.org/abs/2510.11339v2)** | 2026-05-21 | Under review |
 | **[Do LLMs Know What Luxembourgish Borrows? Probing Lexical Neology in Low-Resource Multilingual Models](https://arxiv.org/abs/2605.21227v1)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted to Neollm colocated with LREC2026, Three figures and three tables</p></details> |
-| **[Decoupled and Divergence-Conditioned Prompt for Multi-domain Dynamic Graph Foundation Models](https://arxiv.org/abs/2605.13540v1)** | 2026-05-13 |  |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Fair Evaluation of Graph Foundation Models for Node Property Prediction](https://arxiv.org/abs/2606.24509v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at The Workshop on Graph Foundation Models at ICML 2026</p></details> |
-| **[Point-Voxel Absorbing Graph Representation Learning for Event Stream based Recognition](https://arxiv.org/abs/2306.05239v3)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted by International Conference on Robotics and Learning (ICRL) 2026</p></details> |
-| **[SEAGAN: domain-Specific and Edge-Aware Graph Attention Network for Dynamic Plant Processes](https://arxiv.org/abs/2606.19623v2)** | 2026-06-23 |  |
-| **[Generating adversarial inputs for a graph neural network model of AC power flow](https://arxiv.org/abs/2602.17975v2)** | 2026-06-23 |  |
-| **[Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings](https://arxiv.org/abs/2505.13087v2)** | 2026-06-22 | <details><summary>Inter...</summary><p>International Conference on Machine Learning, Seoul, 2026</p></details> |
-| **[Efficient implementation of graph autoencoders for model-order reduction of systems with sharp gradients](https://arxiv.org/abs/2606.23834v1)** | 2026-06-22 | 31 pages, 16 figures |
-| **[Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America](https://arxiv.org/abs/2606.23833v1)** | 2026-06-22 |  |
-| **[SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations](https://arxiv.org/abs/2606.23548v1)** | 2026-06-22 | 19 pages, 10 figures |
-| **[Structure-Aware Compound-Protein Affinity Prediction via Graph Neural Networks with Group Lasso Regularization](https://arxiv.org/abs/2507.03318v3)** | 2026-06-22 | 15 pages, 8 figures |
-| **[Rethinking Molecular Graph Backdoors under Chemistry-aware Admission](https://arxiv.org/abs/2606.23361v1)** | 2026-06-22 | 30 pages |
+| **[Graph Neural Networks Applications Across Domains: All Insights You Need](https://arxiv.org/abs/2606.27202v1)** | 2026-06-25 |  |
+| **[Explaining Temporal Graph Neural Networks via Feature-induced Information Flow](https://arxiv.org/abs/2606.27201v1)** | 2026-06-25 |  |
+| **[Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs](https://arxiv.org/abs/2606.27126v1)** | 2026-06-25 |  |
+| **[Scalable Message-Passing Quantum Graph Neural Networks in the Weisfeiler-Leman Hierarchy](https://arxiv.org/abs/2606.26873v1)** | 2026-06-25 | <details><summary>10 pa...</summary><p>10 pages, 4 figures (main text); 35 pages, 9 figures, 14 tables including Supplementary Information. Code available at https://github.com/SnehalRaj/mp-qgnns</p></details> |
+| **[Learning to Select Maximum Clique Algorithms: From Traditional Machine Learning to a Dual-Channel Hybrid Neural Architecture](https://arxiv.org/abs/2508.08005v4)** | 2026-06-25 | 14 pages, 8 figures |
+| **[Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs: Graphon Limits and Adjoint Convergence](https://arxiv.org/abs/2606.26662v1)** | 2026-06-25 |  |
+| **[Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation](https://arxiv.org/abs/2604.13354v3)** | 2026-06-25 | <details><summary>Full ...</summary><p>Full article including supplementary information, 56 pages, 9 figures</p></details> |
+| **[Estimating condition number with Graph Neural Networks](https://arxiv.org/abs/2603.10277v3)** | 2026-06-24 |  |
+| **[A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks](https://arxiv.org/abs/2606.26212v1)** | 2026-06-24 |  |
+| **[A Hybrid TGN-SEAL Model for Dynamic Graph Link Prediction](https://arxiv.org/abs/2602.14239v3)** | 2026-06-24 |  |
 
