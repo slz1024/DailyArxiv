@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 05, 2026
+title: Latest 10 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Canopy: A Heterograph Foundation Model for Metabolic Engineering](https://arxiv.org/abs/2607.06224v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICML GenBio Workshop 2026 https://openreview.net/forum?id=H8bvgKoT7j</p></details> |
 | **[FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation Learning](https://arxiv.org/abs/2606.32016v1)** | 2026-06-30 |  |
 | **[DeXposure-FM: A Time-series, Graph Foundation Model for Credit Exposures and Stability on Decentralized Financial Networks](https://arxiv.org/abs/2602.03981v2)** | 2026-06-30 |  |
 | **[A Fair Evaluation of Graph Foundation Models for Node Property Prediction](https://arxiv.org/abs/2606.24509v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at The Workshop on Graph Foundation Models at ICML 2026</p></details> |
@@ -30,11 +31,11 @@ labels: documentation
 | **[Handling Feature Heterogeneity with Learnable Graph Patches](https://arxiv.org/abs/2606.17667v1)** | 2026-06-16 | Accepted at KDD 2025 |
 | **[Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling](https://arxiv.org/abs/2605.27023v3)** | 2026-06-16 |  |
 | **[GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](https://arxiv.org/abs/2510.04567v3)** | 2026-06-10 | <details><summary>Accep...</summary><p>Accepted as an oral presentation at the GFM @ ICML 2026 Workshop</p></details> |
-| **[Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks](https://arxiv.org/abs/2606.08306v1)** | 2026-06-06 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions](https://arxiv.org/abs/2607.03233v1)** | 2026-07-03 | 36 Pages |
 | **[Freeze, Prompt, and Adapt: A Framework for Source-free Unsupervised GNN Prompting](https://arxiv.org/abs/2505.16903v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026</p></details> |
 | **[Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning](https://arxiv.org/abs/2606.25356v1)** | 2026-06-24 | 34 pages, 4 figures |
 | **[PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://arxiv.org/abs/2606.22914v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
@@ -44,11 +45,11 @@ labels: documentation
 | **[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](https://arxiv.org/abs/2605.14809v2)** | 2026-05-26 |  |
 | **[PLACE: Prompt Learning for Attributed Community Search in Large Graphs](https://arxiv.org/abs/2507.05311v2)** | 2026-05-22 | 14 pages, 9 figures |
 | **[GP2F: Cross-Domain Graph Prompting with Adaptive Fusion of Pre-trained Graph Neural Networks](https://arxiv.org/abs/2602.11629v2)** | 2026-05-22 | 16 pages, 8 figures |
-| **[Event-Aware Prompt Learning for Dynamic Graphs](https://arxiv.org/abs/2510.11339v2)** | 2026-05-21 | Under review |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Breaking Structural Isolation: Scalable Graph Clustering via Community-Aware Sampling and Structural Entropy](https://arxiv.org/abs/2607.05469v1)** | 2026-07-06 | <details><summary>Accep...</summary><p>Accepted to the Proceedings of the VLDB Endowment (VLDB 2026). 18 pages, 15 figures, 15 tables</p></details> |
 | **[Toward General Digraph Contrastive Learning: A Dual Spatial Perspective](https://arxiv.org/abs/2510.16311v3)** | 2026-06-18 |  |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](https://arxiv.org/abs/2505.17786v6)** | 2026-06-15 | ICML 2026 |
 | **[Timestamp-Aware Spatio-Temporal Graph Contrastive Learning for Network Intrusion Detection](https://arxiv.org/abs/2606.17109v1)** | 2026-06-15 |  |
@@ -58,19 +59,18 @@ labels: documentation
 | **[Revisiting Graph Autoencoders as Implicit Contrastive Learners](https://arxiv.org/abs/2410.10241v2)** | 2026-05-27 | <details><summary>KDD 2...</summary><p>KDD 2026 research track. Code available at https://github.com/EdisonLeeeee/lrGAE</p></details> |
 | **[GCIB: Graph Contrastive Information Bottleneck for Multi-Behavior Recommendation](https://arxiv.org/abs/2605.25690v1)** | 2026-05-25 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Camera-ready version</p></details> |
 | **[Distance-Aware Joint Spatio-Temporal Graph Contrastive Learning for Major Depressive Disorder Diagnosis](https://arxiv.org/abs/2605.24066v1)** | 2026-05-22 |  |
-| **[A Unified Perspective for Learning Graph Representations Across Multi-Level Abstractions](https://arxiv.org/abs/2605.12685v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Knowledge and Data Engineering (TKDE). 18 pages, 8 figures</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility](https://arxiv.org/abs/2607.02212v1)** | 2026-07-02 |  |
-| **[SA-HGNN: Sample-Adaptive Hyperbolic Graph Neural Network for EEG-Based Depression Recognition](https://arxiv.org/abs/2607.02063v1)** | 2026-07-02 |  |
-| **[From Lab to Reality: A Practical Evaluation of Deep Learning Models and LLMs for Vulnerability Detection](https://arxiv.org/abs/2512.10485v2)** | 2026-07-02 |  |
-| **[Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion](https://arxiv.org/abs/2607.01777v1)** | 2026-07-02 |  |
-| **[A General Neural Backbone for Mixed-Integer Linear Optimization via Dual Attention](https://arxiv.org/abs/2601.04509v2)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Spatial Support Matters: Geometry-Aware Graph Fusion for Rainfall Field Reconstruction](https://arxiv.org/abs/2607.01621v1)** | 2026-07-02 | <details><summary>Submi...</summary><p>Submitted to WACV 2027, applications track</p></details> |
-| **[EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation](https://arxiv.org/abs/2607.01584v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 AI for Science Workshop</p></details> |
-| **[Robust and Explainable 3D Mode Shape Recognition Using Region-Aware Graph Neural Networks](https://arxiv.org/abs/2607.01522v1)** | 2026-07-01 |  |
-| **[Crystalite: A Lightweight Transformer for Efficient Crystal Modeling](https://arxiv.org/abs/2604.02270v2)** | 2026-07-01 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Code available at: https://github.com/joshrosie/crystalite</p></details> |
-| **[PETIMOT: A Novel Framework for Inferring Protein Motions from Sparse Data Using SE(3)-Equivariant Graph Neural Networks](https://arxiv.org/abs/2504.02839v2)** | 2026-07-01 |  |
+| **[CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models](https://arxiv.org/abs/2607.06534v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://oceansdepp.github.io/cairn_web/</p></details> |
+| **[Visual graphs for image classification: does the structure affect performance?](https://arxiv.org/abs/2607.06295v1)** | 2026-07-07 |  |
+| **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v4)** | 2026-07-07 |  |
+| **[Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](https://arxiv.org/abs/2607.05736v1)** | 2026-07-07 | 14 pages, 3 figures |
+| **[Counterfactual Methods for Detecting Unfairness in Anti-Money Laundering Algorithms](https://arxiv.org/abs/2607.05101v1)** | 2026-07-06 |  |
+| **[FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training](https://arxiv.org/abs/2607.05095v1)** | 2026-07-06 |  |
+| **[Hyperparameter Transfer in Graph Neural Networks](https://arxiv.org/abs/2607.05017v1)** | 2026-07-06 |  |
+| **[Multi-Robot Open Adaptive Teaming Across Unseen Environments, Partners, and Scales](https://arxiv.org/abs/2607.04972v1)** | 2026-07-06 |  |
+| **[Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction](https://arxiv.org/abs/2607.04912v1)** | 2026-07-06 |  |
+| **[A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration](https://arxiv.org/abs/2504.11907v3)** | 2026-07-06 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted at the 24th European Control Conference (ECC)</p></details> |
 
