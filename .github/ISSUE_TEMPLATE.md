@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 08, 2026
+title: Latest 10 Papers - July 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models](https://arxiv.org/abs/2607.06534v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://oceansdepp.github.io/cairn_web/</p></details> |
-| **[Visual graphs for image classification: does the structure affect performance?](https://arxiv.org/abs/2607.06295v1)** | 2026-07-07 |  |
-| **[GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning](https://arxiv.org/abs/2601.20753v4)** | 2026-07-07 |  |
-| **[Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](https://arxiv.org/abs/2607.05736v1)** | 2026-07-07 | 14 pages, 3 figures |
-| **[Counterfactual Methods for Detecting Unfairness in Anti-Money Laundering Algorithms](https://arxiv.org/abs/2607.05101v1)** | 2026-07-06 |  |
-| **[FAST: A Holistic Framework for Optimizing Memory-I/O, Computation, and Sampling in Temporal GNN Training](https://arxiv.org/abs/2607.05095v1)** | 2026-07-06 |  |
-| **[Hyperparameter Transfer in Graph Neural Networks](https://arxiv.org/abs/2607.05017v1)** | 2026-07-06 |  |
-| **[Multi-Robot Open Adaptive Teaming Across Unseen Environments, Partners, and Scales](https://arxiv.org/abs/2607.04972v1)** | 2026-07-06 |  |
-| **[Graph Representation Learning of Longitudinal Medical Imaging Trajectories for Treatment Response Prediction](https://arxiv.org/abs/2607.04912v1)** | 2026-07-06 |  |
-| **[A Graph-Based Reinforcement Learning Approach with Frontier Potential Based Reward for Safe Cluttered Environment Exploration](https://arxiv.org/abs/2504.11907v3)** | 2026-07-06 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted at the 24th European Control Conference (ECC)</p></details> |
+| **[EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling under Edge Differential Privacy](https://arxiv.org/abs/2607.08659v1)** | 2026-07-09 |  |
+| **[Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming](https://arxiv.org/abs/2607.08454v1)** | 2026-07-09 |  |
+| **[Optimization and Deep Learning based Resource Allocation for UAV-Aided Wireless Communication with Rotatable Antenna Array](https://arxiv.org/abs/2607.08420v1)** | 2026-07-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud](https://arxiv.org/abs/2601.11073v3)** | 2026-07-09 |  |
+| **[Semantic Representation Learning of Scientific Literature based on Adaptive Feature and Graph Neural Network](https://arxiv.org/abs/2311.00296v2)** | 2026-07-09 | 7 pages |
+| **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v3)** | 2026-07-09 |  |
+| **[path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting](https://arxiv.org/abs/2607.07935v1)** | 2026-07-08 | <details><summary>27 pa...</summary><p>27 pages, 4 figures, 5 tables. Code available at https://github.com/Claudio-Me/extended_path_boost and on PyPI (path-boost)</p></details> |
+| **[Homomorphism Indistinguishability Beyond Graphs: Relational Weisfeiler--Leman and Hypertree Width](https://arxiv.org/abs/2607.07934v1)** | 2026-07-08 |  |
+| **[A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals](https://arxiv.org/abs/2607.07850v1)** | 2026-07-08 |  |
+| **[Any-Dimensional Learning by Sampling](https://arxiv.org/abs/2607.07680v1)** | 2026-07-08 |  |
 
