@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - July 15, 2026
+title: Latest 10 Papers - July 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Parents? Prediction Gaps in University Completion Using Population-Scale Networks and Flexible Machine Learning](https://arxiv.org/abs/2506.22993v2)** | 2026-07-14 |  |
-| **[StableAML: Machine Learning for Behavioral Wallet Detection in Stablecoin Anti-Money Laundering on Ethereum](https://arxiv.org/abs/2602.17842v2)** | 2026-07-14 |  |
-| **[Explaining Temporal Graph Neural Networks via Feature-induced Information Flow](https://arxiv.org/abs/2606.27201v2)** | 2026-07-14 |  |
-| **[Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity](https://arxiv.org/abs/2607.12269v1)** | 2026-07-14 |  |
-| **[Efficiently Learning Branching Networks for Multitask Algorithmic Reasoning](https://arxiv.org/abs/2512.01113v2)** | 2026-07-13 | <details><summary>31 pa...</summary><p>31 pages. Modified the experiments section and improved exposition</p></details> |
-| **[Catalyst-Agent: Autonomous heterogeneous catalyst screening with an LLM Agent](https://arxiv.org/abs/2603.01311v3)** | 2026-07-13 |  |
-| **[Variational Mixture of Graph Neural Experts for Alzheimer's Disease Recognition across Frequency Bands in EEG Brain Networks](https://arxiv.org/abs/2510.11917v2)** | 2026-07-13 |  |
-| **[Learning the Graphical Nature of Symmetries](https://arxiv.org/abs/2607.12026v1)** | 2026-07-13 | 32 pages; 18 figures |
-| **[Robust hardware Trojan detection leveraging dual-domain features and stacked ensemble learning](https://arxiv.org/abs/2411.12721v2)** | 2026-07-13 | <details><summary>This ...</summary><p>This version supersedes the original arXiv submission and reflects the peer-reviewed journal publication under a new title, 21 pages, 10 figures. Revised and peer-reviewed version. Published in Cybersecurity. Previously posted under the title "An AI-Enabled Side Channel Power Analysis Based Hardware Trojan Detection Method for Securing the Integrated Circuits in Cyber-Physical Systems"</p></details> |
-| **[Higher-Order Cell Tracking Transformer](https://arxiv.org/abs/2607.11754v1)** | 2026-07-13 |  |
+| **[Octopus-inspired Distributed Control for Soft Robotic Arms: A Graph Neural Network-Based Attention Policy with Environmental Interaction](https://arxiv.org/abs/2603.10198v2)** | 2026-07-16 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 2 tables, accepted by IROS 2026</p></details> |
+| **[Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](https://arxiv.org/abs/2607.14905v1)** | 2026-07-16 |  |
+| **[A short review on the maximum clique problem algorithms with classical, AI, and quantum methods](https://arxiv.org/abs/2403.09742v2)** | 2026-07-16 | 41 pages |
+| **[Grad2Fair: A Gradient-driven Approach for Graph Fairness without Demographics](https://arxiv.org/abs/2607.14705v1)** | 2026-07-16 | Under Review |
+| **[CausalGraphX: A Counterfactual Graph Neural Network Framework for Explainable Systemic Risk Assessment](https://arxiv.org/abs/2607.14416v1)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted in AAAI'26 Workshop, Agentic AI in Financial Services</p></details> |
+| **[NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizure Diagnosis](https://arxiv.org/abs/2607.14314v1)** | 2026-07-15 |  |
+| **[MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model](https://arxiv.org/abs/2607.13763v1)** | 2026-07-15 | 10 pages, 4 figues |
+| **[RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset](https://arxiv.org/abs/2603.11811v2)** | 2026-07-15 | <details><summary>8 pag...</summary><p>8 pages, 4 figures. Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026). Project page: https://radar-iros.netlify.app/</p></details> |
+| **[Accelerating gas-network feasibility screening with a physics-informed graph neural network surrogate](https://arxiv.org/abs/2607.13610v1)** | 2026-07-15 | 10 figures |
+| **[Gauge-Invariant, Parameter-Insensitive Regularization for Potential Recovery from Flow on Directed Graphs](https://arxiv.org/abs/2607.13609v1)** | 2026-07-15 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, submitted to LoG 2026</p></details> |
 
