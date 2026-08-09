@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 05, 2026
+title: Latest 10 Papers - August 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Graph Prompting via Topology-Routed Mixed-Curvature Experts](https://arxiv.org/abs/2608.06031v1)** | 2026-08-06 | <details><summary>Sugge...</summary><p>Suggestions and comments are welcomed</p></details> |
 | **[Model Agnostic Graph Prompt Learning for Crystal Property Prediction](https://arxiv.org/abs/2607.08996v1)** | 2026-07-09 | Accepted in UAI 2026 |
 | **[Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions](https://arxiv.org/abs/2607.03233v1)** | 2026-07-03 | 36 Pages |
 | **[Freeze, Prompt, and Adapt: A Framework for Source-free Unsupervised GNN Prompting](https://arxiv.org/abs/2505.16903v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026</p></details> |
@@ -44,7 +45,6 @@ labels: documentation
 | **[Towards Fair Graph Prompting: A Dual-Prompt Mechanism for Mitigating Attribute and Structural Bias](https://arxiv.org/abs/2510.23469v2)** | 2026-06-02 |  |
 | **[Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective](https://arxiv.org/abs/2606.03290v1)** | 2026-06-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[GFMate: Empowering Graph Foundation Models with Test-time Prompt Tuning](https://arxiv.org/abs/2605.14809v2)** | 2026-05-26 |  |
-| **[PLACE: Prompt Learning for Attributed Community Search in Large Graphs](https://arxiv.org/abs/2507.05311v2)** | 2026-05-22 | 14 pages, 9 figures |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v2)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
-| **[GORDON: Graph-based Object-centric Rewards for Decomposition of Long-Horizon Manipulation](https://arxiv.org/abs/2608.03753v1)** | 2026-08-04 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, preprint. Project page: https://andreaprotopapa.github.io/graph-reward-learning/</p></details> |
-| **[Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling](https://arxiv.org/abs/2608.03696v1)** | 2026-08-04 | <details><summary>4 pag...</summary><p>4 pages, 1 figure. Accepted at ECML PKDD 2026 (Nectar Track)</p></details> |
-| **[Fault Cause Identification across Manufacturing Lines through Ontology-Guided and Process-Aware FMEA Graph Learning with LLMs](https://arxiv.org/abs/2510.15428v2)** | 2026-08-04 |  |
-| **[Learning the Word Problem: Geodesic Lengths and Cryptographic Applications](https://arxiv.org/abs/2607.26241v2)** | 2026-08-04 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 4 tables</p></details> |
-| **[GraphCliff: Short-Long Range Gating for Modeling Critical Activity Changes Caused by Subtle Molecular Differences](https://arxiv.org/abs/2511.03170v3)** | 2026-08-04 | 12 pages |
-| **[Graph Neural Planning and Predictive Control for Multi-Robot Communication-Constrained Unlabeled Motion Planning](https://arxiv.org/abs/2605.19209v2)** | 2026-08-03 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, Accepted at the IEEE International Conference on Robotics and Automation (ICRA) 2026</p></details> |
-| **[Benchmarking Sheaf Neural Networks for Inductive Tasks](https://arxiv.org/abs/2608.02558v1)** | 2026-08-03 |  |
-| **[K-STEMIT: Knowledge-Informed Spatio-Temporal Efficient Multi-Branch Graph Neural Network for Subsurface Stratigraphy Thickness Estimation from Radar Data](https://arxiv.org/abs/2604.09922v2)** | 2026-08-03 |  |
-| **[Network Information Enhances Unreliable News Domain Detection](https://arxiv.org/abs/2608.02399v1)** | 2026-08-03 |  |
+| **[ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment](https://arxiv.org/abs/2608.06110v1)** | 2026-08-06 | 5 pages |
+| **[Closed-Loop Decision-Focused Learning for User-Aware Cloud Orchestration under Uncertainty](https://arxiv.org/abs/2608.05735v1)** | 2026-08-06 |  |
+| **[Listen to the Unexpected: Self-Supervised Surprise Detection for Efficient Viewport Prediction](https://arxiv.org/abs/2601.02629v2)** | 2026-08-06 | <details><summary>Durin...</summary><p>During follow-up checks, the authors found an inconsistency in the evaluation pipeline. We are withdrawing this version to re-run the experiments and verify the results before issuing an updated analysis</p></details> |
+| **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v3)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
+| **[Tropical Algebraic Geometry for Neuronal Representations: An Arakelov-Green Measure Based Descriptor for Graph Learning](https://arxiv.org/abs/2608.04460v1)** | 2026-08-05 |  |
+| **[Taming Treewidth DP with Modulators: A General Booster for Graph Heuristics](https://arxiv.org/abs/2608.04446v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of IJCAI 2026</p></details> |
+| **[Galaxy Phase-Space and Field-Level Cosmology: The Strength of Semi-Analytic Models](https://arxiv.org/abs/2512.10222v2)** | 2026-08-05 | 24 pages, 6 figures |
+| **[Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction](https://arxiv.org/abs/2608.04257v1)** | 2026-08-04 |  |
+| **[Topology-Aware Reasoning over Incomplete Knowledge Graph with Graph-Based Soft Prompting](https://arxiv.org/abs/2604.12503v2)** | 2026-08-04 | 17 pages, 2 figures |
+| **[Patients-like-me: A Variational LM--GNN Framework for Explainable Clinical Prediction](https://arxiv.org/abs/2608.04193v1)** | 2026-08-04 |  |
 
