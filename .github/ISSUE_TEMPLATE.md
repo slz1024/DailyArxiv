@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 09, 2026
+title: Latest 10 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Graph Pre-training
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PreGress: Ranking-Native Pre-training and Prompting for Graph Node Ranking](https://arxiv.org/abs/2608.09016v1)** | 2026-08-10 |  |
 | **[DIB-OD: Preserving the Invariant Core for Robust Heterogeneous Graph Adaptation via Decoupled Information Bottleneck and Online Distillation](https://arxiv.org/abs/2604.10882v3)** | 2026-08-04 |  |
 | **[Handling Feature Heterogeneity with Learnable Graph Patches](https://arxiv.org/abs/2606.17667v1)** | 2026-06-16 | Accepted at KDD 2025 |
 | **[MLaGA: Multimodal Large Language and Graph Assistant](https://arxiv.org/abs/2506.02568v2)** | 2026-06-10 |  |
@@ -16,21 +17,20 @@ labels: documentation
 | **[GraphSculptor: Sculpting Pre-training Coreset for Graph Self-supervised Learning](https://arxiv.org/abs/2605.01310v1)** | 2026-05-02 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Accepted by IJCAI 2026</p></details> |
 | **[Multi-Domain Riemannian Graph Gluing for Building Graph Foundation Models](https://arxiv.org/abs/2603.00618v1)** | 2026-02-28 | <details><summary>Accep...</summary><p>Accepted by ICLR'26, 41 pages</p></details> |
 | **[LEDA: Latent Semantic Distribution Alignment for Multi-domain Graph Pre-training](https://arxiv.org/abs/2602.22660v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by WWW-26, 12 pages, 2 figures</p></details> |
-| **[MUG: Meta-path-aware Universal Heterogeneous Graph Pre-Training](https://arxiv.org/abs/2602.22645v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by AAAI-26, 9 pages, 3 figures</p></details> |
 
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes](https://arxiv.org/abs/2608.10699v1)** | 2026-08-11 |  |
+| **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v1)** | 2026-08-09 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
 | **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v2)** | 2026-08-01 | Under Review |
+| **[Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning](https://arxiv.org/abs/2608.06394v1)** | 2026-07-31 |  |
 | **[Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models](https://arxiv.org/abs/2607.28980v1)** | 2026-07-31 |  |
 | **[What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](https://arxiv.org/abs/2607.27966v1)** | 2026-07-30 |  |
 | **[AgentGFM: A Graph Foundation Model with Node-Agent Information-Flow Control](https://arxiv.org/abs/2607.26533v1)** | 2026-07-29 | 13 pages, 5 figures |
 | **[CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](https://arxiv.org/abs/2607.26023v1)** | 2026-07-28 |  |
 | **[Attacking Graph Foundation Models Through Their Shared Representation](https://arxiv.org/abs/2607.18567v1)** | 2026-07-20 |  |
 | **[A Weisfeiler-Leman Characterization of Global-Attention Graph Transformers for Mixed-Integer Linear Programs](https://arxiv.org/abs/2607.17570v1)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted to Topology, Algebra, and Geometry in Data Science (TAG-DS) 2026 (20 pages, 10 figures) [Lightning Oral Presentation]</p></details> |
-| **[Node4All: Learning Node Representation Beyond Datasets](https://arxiv.org/abs/2607.17272v1)** | 2026-07-19 | Accepted to KDD 2026 |
-| **[Toward Federated Multimodal Graph Foundation Models: A Topology-Aware Multimodal Alignment Framework](https://arxiv.org/abs/2607.15687v1)** | 2026-07-17 | Under Review |
-| **[Surprisingly Simple and Effective Multi-Domain Graph Foundation Model through Graph-to-Table Alignment](https://arxiv.org/abs/2607.11374v1)** | 2026-07-13 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment](https://arxiv.org/abs/2608.06110v1)** | 2026-08-06 | 5 pages |
-| **[Closed-Loop Decision-Focused Learning for User-Aware Cloud Orchestration under Uncertainty](https://arxiv.org/abs/2608.05735v1)** | 2026-08-06 |  |
-| **[Listen to the Unexpected: Self-Supervised Surprise Detection for Efficient Viewport Prediction](https://arxiv.org/abs/2601.02629v2)** | 2026-08-06 | <details><summary>Durin...</summary><p>During follow-up checks, the authors found an inconsistency in the evaluation pipeline. We are withdrawing this version to re-run the experiments and verify the results before issuing an updated analysis</p></details> |
-| **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v3)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
-| **[Tropical Algebraic Geometry for Neuronal Representations: An Arakelov-Green Measure Based Descriptor for Graph Learning](https://arxiv.org/abs/2608.04460v1)** | 2026-08-05 |  |
-| **[Taming Treewidth DP with Modulators: A General Booster for Graph Heuristics](https://arxiv.org/abs/2608.04446v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted for publication in the Proceedings of IJCAI 2026</p></details> |
-| **[Galaxy Phase-Space and Field-Level Cosmology: The Strength of Semi-Analytic Models](https://arxiv.org/abs/2512.10222v2)** | 2026-08-05 | 24 pages, 6 figures |
-| **[Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction](https://arxiv.org/abs/2608.04257v1)** | 2026-08-04 |  |
-| **[Topology-Aware Reasoning over Incomplete Knowledge Graph with Graph-Based Soft Prompting](https://arxiv.org/abs/2604.12503v2)** | 2026-08-04 | 17 pages, 2 figures |
-| **[Patients-like-me: A Variational LM--GNN Framework for Explainable Clinical Prediction](https://arxiv.org/abs/2608.04193v1)** | 2026-08-04 |  |
+| **[Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks](https://arxiv.org/abs/2607.03798v4)** | 2026-08-11 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 as a spotlight paper with oral presentation</p></details> |
+| **[AgForce Enables Antigen-conditioned Generative Antibody Design](https://arxiv.org/abs/2605.21610v2)** | 2026-08-11 |  |
+| **[3D Weighted Geometric Graph Neural Networks for Sheep Facial Pain Assessment](https://arxiv.org/abs/2608.11050v1)** | 2026-08-11 |  |
+| **[Lost in Aggregation: On a Fundamental Expressivity Limit of Message-Passing Graph Neural Networks](https://arxiv.org/abs/2603.14846v4)** | 2026-08-11 |  |
+| **[ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment](https://arxiv.org/abs/2608.06110v2)** | 2026-08-11 | 5 pages |
+| **[Secure Cooperative THz ISAC via Mamba Empowered Graph Neural Network Precoding](https://arxiv.org/abs/2608.10467v1)** | 2026-08-11 |  |
+| **[RankFormer: A Propose-then-Select Transformer for Multi-Agent Multimodal Trajectory Prediction](https://arxiv.org/abs/2604.07126v3)** | 2026-08-11 | 11 pages, 5 figures |
+| **[A Graph Neural Network--Guided Genetic Algorithm for Physical Internet Supply Chain Optimization under Cost Uncertainty](https://arxiv.org/abs/2608.10245v1)** | 2026-08-10 | 6 pages |
+| **[Learning to Triage Vulnerability Reports from Program Analysis: An Empirical Study in Node.js](https://arxiv.org/abs/2510.20739v2)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026). The version of record is available at https://doi.org/10.1145/3832783.3837503</p></details> |
+| **[Implicit Virtual Leader: Decentralized Vision-Only Relative Pose Estimation for Multi-Robot Formations](https://arxiv.org/abs/2607.15708v2)** | 2026-08-10 |  |
 
