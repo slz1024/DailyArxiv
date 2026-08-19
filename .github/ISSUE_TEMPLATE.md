@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 16, 2026
+title: Latest 10 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,6 +49,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v1)** | 2026-08-17 |  |
 | **[On the Effectiveness of Pretraining for Graph Combinatorial Optimization](https://arxiv.org/abs/2607.19072v1)** | 2026-07-21 | <details><summary>This ...</summary><p>This work was accepted to be presented at the Graph Signal Processing Workshop 2026</p></details> |
 | **[Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs](https://arxiv.org/abs/2607.18412v1)** | 2026-07-20 |  |
 | **[Adaptive Fusion Self-supervised Learning for Recommendation](https://arxiv.org/abs/2407.19692v5)** | 2026-07-14 |  |
@@ -58,19 +59,18 @@ labels: documentation
 | **[Timestamp-Aware Spatio-Temporal Graph Contrastive Learning for Network Intrusion Detection](https://arxiv.org/abs/2606.17109v1)** | 2026-06-15 |  |
 | **[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](https://arxiv.org/abs/2606.10284v1)** | 2026-06-09 | 24 pages,6 figures |
 | **[Safe-Subspace Pseudo-Label Refinement for Source-Free Graph Domain Adaptation](https://arxiv.org/abs/2606.00808v1)** | 2026-05-30 |  |
-| **[From Moments to Models: Graphon-Mixture Learning for Mixup and Contrastive Learning](https://arxiv.org/abs/2510.03690v4)** | 2026-05-29 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v2)** | 2026-08-13 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
-| **[Jointly Predicting Courses and Grades Using a Transformer-Based Model](https://arxiv.org/abs/2608.13409v1)** | 2026-08-13 |  |
-| **[Causal Mediation Analysis for Network Data with Graph Neural Network](https://arxiv.org/abs/2608.13274v1)** | 2026-08-13 | 86 pages |
-| **[Novel Knowledge-Guided Generative Methods for Synthetic Transcriptomic Data](https://arxiv.org/abs/2608.13256v1)** | 2026-08-13 |  |
-| **[TANGCO: Learning Topology-Aware Capacity Allocation for Overload-driven Cascading Failures](https://arxiv.org/abs/2608.13212v1)** | 2026-08-13 |  |
-| **[EGRL: Edge generation-guided relation-aware learning for RNA-protein interaction prediction](https://arxiv.org/abs/2608.12906v1)** | 2026-08-13 |  |
-| **[Exploring Oversmoothing with Householder Matrices](https://arxiv.org/abs/2608.12514v1)** | 2026-08-12 |  |
-| **[Variational Mixture of Graph Neural Experts for Alzheimer's Disease Recognition across Frequency Bands in EEG Brain Networks](https://arxiv.org/abs/2510.11917v4)** | 2026-08-12 |  |
-| **[Faithful, Sufficient and Understandable: Rethinking Graph Counterfactual Explanations via Discrete Diffusion Inversion](https://arxiv.org/abs/2608.12083v1)** | 2026-08-12 |  |
-| **[CGRL: Causal-Guided Representation Learning for Node-Level Out-of-Distribution Generalization](https://arxiv.org/abs/2603.24304v3)** | 2026-08-12 |  |
+| **[Against Political Polarization: A Unified Framework for Tracing Evolving Political Ideologies on Social Media](https://arxiv.org/abs/2608.17987v1)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Intelligent Systems and Technology</p></details> |
+| **[ESR-HGNN: Eliminating Semantic Redundancy for Efficient Mini-batch HGNN Inference](https://arxiv.org/abs/2608.17865v1)** | 2026-08-18 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, to apear in IEEE TPDS (just accepted)</p></details> |
+| **[ETHEREAL: A 25.6-$μ$s/inf. Low-latency Event-driven Graph-neural-network Processor for High-resolution Vision at the Edge](https://arxiv.org/abs/2608.17787v1)** | 2026-08-18 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE JSSC for possible publication</p></details> |
+| **[Communicating Credit Risk with Large Language Models: Evaluation of Explanations from Standard and Alternative Data-Based Models](https://arxiv.org/abs/2608.17715v1)** | 2026-08-18 | 49 pages, 14 figures |
+| **[GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks](https://arxiv.org/abs/2607.19083v3)** | 2026-08-18 |  |
+| **[Asynchronous Message Passing for Addressing Oversquashing in Graph Neural Networks](https://arxiv.org/abs/2509.06777v2)** | 2026-08-18 |  |
+| **[HyPE-GT: where Graph Transformers meet Hyperbolic Positional Encodings](https://arxiv.org/abs/2312.06576v2)** | 2026-08-18 |  |
+| **[NICE: Scale-Stable Perturbations for Graph Neural Network Explanations via Noise Corruption](https://arxiv.org/abs/2608.16038v2)** | 2026-08-18 | 17 pages, 9 figures |
+| **[General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting](https://arxiv.org/abs/2608.17440v1)** | 2026-08-18 | <details><summary>8 pag...</summary><p>8 pages, 3 figures (published at MDM'26)</p></details> |
+| **[EquiPocket: an E(3)-Equivariant Geometric Graph Neural Network for Ligand Binding Site Prediction](https://arxiv.org/abs/2302.12177v5)** | 2026-08-18 | <details><summary>This ...</summary><p>This paper has been withdrawn by the authors. After further internal evaluation, we find that the technical elaboration and experimental design in the current manuscript require substantial restructuring and revision. The authors will comprehensively optimize the technical framework and reorganize the manuscript before future public release</p></details> |
 
