@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - August 26, 2026
+title: Latest 10 Papers - August 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,8 +21,8 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trojaning the Alignment: Stealthy Backdoor Attacks against Graph Foundation Models](https://arxiv.org/abs/2608.20991v2)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
 | **[ReCoG: Reciprocal Co-Evolution for Multimodal Graph Learning](https://arxiv.org/abs/2608.22786v1)** | 2026-08-24 |  |
-| **[Trojaning the Alignment: Stealthy Backdoor Attacks against Graph Foundation Models](https://arxiv.org/abs/2608.20991v1)** | 2026-08-21 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
 | **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489v4)** | 2026-08-20 |  |
 | **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v2)** | 2026-08-13 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
 | **[ProTAGAD: A Foundation Model for TAG Anomaly Detection with Decoupled Topological and Textual Prototypes](https://arxiv.org/abs/2608.10699v1)** | 2026-08-11 |  |
@@ -49,6 +49,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation](https://arxiv.org/abs/2608.25381v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 7 tables. Accepted at WISE 2026</p></details> |
 | **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v1)** | 2026-08-17 |  |
 | **[On the Effectiveness of Pretraining for Graph Combinatorial Optimization](https://arxiv.org/abs/2607.19072v1)** | 2026-07-21 | <details><summary>This ...</summary><p>This work was accepted to be presented at the Graph Signal Processing Workshop 2026</p></details> |
 | **[Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs](https://arxiv.org/abs/2607.18412v1)** | 2026-07-20 |  |
@@ -58,19 +59,18 @@ labels: documentation
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](https://arxiv.org/abs/2505.17786v6)** | 2026-06-15 | ICML 2026 |
 | **[Timestamp-Aware Spatio-Temporal Graph Contrastive Learning for Network Intrusion Detection](https://arxiv.org/abs/2606.17109v1)** | 2026-06-15 |  |
 | **[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](https://arxiv.org/abs/2606.10284v1)** | 2026-06-09 | 24 pages,6 figures |
-| **[Safe-Subspace Pseudo-Label Refinement for Source-Free Graph Domain Adaptation](https://arxiv.org/abs/2606.00808v1)** | 2026-05-30 |  |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Defending Network Intrusion Detection Systems Based on Graph Neural Networks Against Structural Adversarial Attacks](https://arxiv.org/abs/2608.24454v1)** | 2026-08-25 | <details><summary>In Pr...</summary><p>In Proceedings of 2025 23rd International Symposium on Network Computing and Applications (NCA), Lisbon, Portugal, 2025</p></details> |
-| **[If It Walks Like an Arbitrage: Protocol-Agnostic Detection with Decidable Structural Equivalence](https://arxiv.org/abs/2608.20377v2)** | 2026-08-25 |  |
-| **[TaLK: Text-attributed Graph Dataset Distillation via Coupling Language Model with Graph-Aware Kernel](https://arxiv.org/abs/2606.22975v2)** | 2026-08-25 | EMNLP 2026 Findings |
-| **[Exploring cooperation mechanisms via deep reinforcement learning in network common-pool resource games](https://arxiv.org/abs/2606.05867v3)** | 2026-08-25 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 3 tables</p></details> |
-| **[GATNextHop: A GAT for Shortest Path Routing with Cross-Topology Generalization](https://arxiv.org/abs/2608.23917v1)** | 2026-08-24 | <details><summary>Sixth...</summary><p>Sixth Annual Computer Science Conference for CSU Undergraduates</p></details> |
-| **[Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials](https://arxiv.org/abs/2608.23874v1)** | 2026-08-24 |  |
-| **[Generating Intervention Hypotheses using Explainable Explanations on Graphs: G2I, a Two-Stage Greedy Framework](https://arxiv.org/abs/2608.23835v1)** | 2026-08-24 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026)</p></details> |
-| **[Ollivier-Ricci Curvature of Riemannian Manifolds and Directed Graphs with Applications to Graph Neural Networks](https://arxiv.org/abs/2604.14211v2)** | 2026-08-24 |  |
-| **[GNNBleed: Inference Attacks to Unveil Private Edges in Graphs with Realistic Access to GNN Models](https://arxiv.org/abs/2311.16139v3)** | 2026-08-24 | <details><summary>27 pa...</summary><p>27 pages, 21 figures. Accepted to the Privacy Enhancing Technologies Symposium (PETS 2025) / Proceedings on Privacy Enhancing Technologies (PoPETs 2025)</p></details> |
-| **[DuoGNN: Topology-aware Graph Neural Network with Homophily and Heterophily Interaction-Decoupling](https://arxiv.org/abs/2409.19616v3)** | 2026-08-24 |  |
+| **[Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling](https://arxiv.org/abs/2608.27413v1)** | 2026-08-27 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 8 tables; accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026); code: https://github.com/makut/VK-GNN</p></details> |
+| **[Inductive Correlation Clustering with Graph Neural Networks](https://arxiv.org/abs/2608.27153v1)** | 2026-08-27 | Accepted at CIKM'26 |
+| **[CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations](https://arxiv.org/abs/2604.14586v4)** | 2026-08-27 | <details><summary>Publi...</summary><p>Published in ACM Transactions on Information Systems (TOIS). 43 pages, 9 figures</p></details> |
+| **[Rethinking Message Passing as Retrieval for Text-Attributed Graph Learning](https://arxiv.org/abs/2608.26732v1)** | 2026-08-27 |  |
+| **[Toward Equitable Low-Carbon Mobility: Fairness-Aware Demand Prediction for Expanding Bike-Sharing Systems](https://arxiv.org/abs/2608.26451v1)** | 2026-08-26 |  |
+| **[Subgraph Filtering for Fair Graph Neural Networks](https://arxiv.org/abs/2608.26437v1)** | 2026-08-26 | ICONIP 2026 |
+| **[Imitation Learning for Connection-Tableau Construction](https://arxiv.org/abs/2608.26009v1)** | 2026-08-26 | <details><summary>9 pag...</summary><p>9 pages. Code: https://github.com/fredrrom/connections</p></details> |
+| **[MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection](https://arxiv.org/abs/2608.25903v1)** | 2026-08-26 |  |
+| **[Why Does Graph Learning Fail to Fully Benefit from a Text Teacher?](https://arxiv.org/abs/2608.25741v1)** | 2026-08-26 | <details><summary>21 pa...</summary><p>21 pages, 1 figure, 7 tables</p></details> |
+| **[Are LLM-Enhanced GNNs Privacy-Safe?](https://arxiv.org/abs/2608.25727v1)** | 2026-08-26 |  |
 
