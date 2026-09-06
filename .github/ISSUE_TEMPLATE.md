@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 02, 2026
+title: Latest 10 Papers - September 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](https://arxiv.org/abs/2503.03313v4)** | 2026-09-02 | EMNLP 2026 |
 | **[Breaking the Reasoning Horizon in Entity Alignment Foundation Models](https://arxiv.org/abs/2601.21174v3)** | 2026-09-01 |  |
 | **[Trojaning the Alignment: Stealthy Backdoor Attacks against Graph Foundation Models](https://arxiv.org/abs/2608.20991v2)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
 | **[ReCoG: Reciprocal Co-Evolution for Multimodal Graph Learning](https://arxiv.org/abs/2608.22786v1)** | 2026-08-24 |  |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Rethinking Federated Graph Foundation Models: A Graph-Language Alignment-based Approach](https://arxiv.org/abs/2601.21369v2)** | 2026-08-01 | Under Review |
 | **[Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning](https://arxiv.org/abs/2608.06394v1)** | 2026-07-31 |  |
 | **[Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models](https://arxiv.org/abs/2607.28980v1)** | 2026-07-31 |  |
-| **[What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models](https://arxiv.org/abs/2607.27966v1)** | 2026-07-30 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,6 +49,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prototype-guided transfer of sparse literature knowledge for electrolyte additive discovery](https://arxiv.org/abs/2609.02209v1)** | 2026-09-02 | 79 pages, 26 figures |
 | **[MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation](https://arxiv.org/abs/2608.25381v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 7 tables. Accepted at WISE 2026</p></details> |
 | **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v1)** | 2026-08-17 |  |
 | **[On the Effectiveness of Pretraining for Graph Combinatorial Optimization](https://arxiv.org/abs/2607.19072v1)** | 2026-07-21 | <details><summary>This ...</summary><p>This work was accepted to be presented at the Graph Signal Processing Workshop 2026</p></details> |
@@ -58,19 +59,18 @@ labels: documentation
 | **[Toward General Digraph Contrastive Learning: A Dual Spatial Perspective](https://arxiv.org/abs/2510.16311v3)** | 2026-06-18 |  |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](https://arxiv.org/abs/2505.17786v6)** | 2026-06-15 | ICML 2026 |
 | **[Timestamp-Aware Spatio-Temporal Graph Contrastive Learning for Network Intrusion Detection](https://arxiv.org/abs/2606.17109v1)** | 2026-06-15 |  |
-| **[Revisiting Positive Samples in Graph Contrastive Learning: From the Perspective of Message Passing](https://arxiv.org/abs/2606.10284v1)** | 2026-06-09 | 24 pages,6 figures |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Edge-Girth as a Structural Edge Feature for Graph Neural Networks](https://arxiv.org/abs/2609.01441v1)** | 2026-09-01 |  |
-| **[GENIE: Watermarking Graph Neural Networks for Link Prediction](https://arxiv.org/abs/2406.04805v4)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials](https://arxiv.org/abs/2609.00528v1)** | 2026-09-01 |  |
-| **[Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion](https://arxiv.org/abs/2607.01777v2)** | 2026-08-31 |  |
-| **[CoMPASS: Collaborative Molecular Property Prediction via Adaptive Small-Large Model Synergy](https://arxiv.org/abs/2608.30674v1)** | 2026-08-31 | 9 pages |
-| **[MolLedger: An Additive Graph Neural Network with Chemically Grounded ADME Attributions](https://arxiv.org/abs/2608.30636v1)** | 2026-08-31 |  |
-| **[Beamforming Design Via GNN in mmWave Cell-Free Massive MIMO Using Sub-6 GHz CSI](https://arxiv.org/abs/2608.30524v1)** | 2026-08-31 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, Accepted for presentation at the 2026 IEEE 27th International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications (IEEE SPAWC 2026)</p></details> |
-| **[Converse and Collision-Based Achievability for Node Localization with Hybrid Distance-Spectral Graph Positional Encodings](https://arxiv.org/abs/2608.30152v1)** | 2026-08-31 |  |
-| **[Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning](https://arxiv.org/abs/2504.03610v2)** | 2026-08-31 |  |
-| **[Graph4BiLO: Graph Neural Network Approximation for Bilevel Mixed-Integer Linear Optimization](https://arxiv.org/abs/2608.30103v1)** | 2026-08-31 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[When Vision Meets Graphs: A Survey on Graph Reasoning and Learning](https://arxiv.org/abs/2609.03816v1)** | 2026-09-03 | <details><summary>IJCAI...</summary><p>IJCAI Survey Track, 2026</p></details> |
+| **[Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology](https://arxiv.org/abs/2609.03689v1)** | 2026-09-03 |  |
+| **[LevelSyn: Physical-Aware Logic Synthesis via Level-Asynchronous Graph Neural Networks](https://arxiv.org/abs/2609.03594v1)** | 2026-09-03 |  |
+| **[PPO-STGNN: A Proximal Policy Optimization Approach with Spatio-Temporal Graph Neural Networks for DAG Task Scheduling in Cloud-Edge-End Computing](https://arxiv.org/abs/2609.03503v1)** | 2026-09-03 |  |
+| **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](https://arxiv.org/abs/2503.03313v4)** | 2026-09-02 | EMNLP 2026 |
+| **[Feasible but Not Safe: Constraint Violations and Report-Channel Attacks in Learned Cell-Free ISAC Association](https://arxiv.org/abs/2609.03147v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to the 17th ACM Workshop on Wireless of the Students, by the Students, for the Students (S3 '26) at MobiCom 2026. 4 pages, 3 figures</p></details> |
+| **[Evaluating Graph Neural Networks for Change-Criticality Classification in Maritime Navigation Charts](https://arxiv.org/abs/2609.02996v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted at IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2026</p></details> |
+| **[Learning and extrapolating scale-invariant processes](https://arxiv.org/abs/2601.14810v3)** | 2026-09-02 | 31p, 24 figures |
+| **[TaLK: Text-attributed Graph Dataset Distillation via Coupling Language Model with Graph-Aware Kernel](https://arxiv.org/abs/2606.22975v3)** | 2026-09-02 | EMNLP 2026 Findings |
+| **[HyGRAIL: Cost-Aware and Evidence-Grounded Scientific Hypothesis Discovery over Knowledge Graphs](https://arxiv.org/abs/2609.02056v1)** | 2026-09-02 |  |
 
