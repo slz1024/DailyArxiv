@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 09, 2026
+title: Latest 10 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reification as a Transferable Vocabulary: Zero-Shot Link Prediction with Vanilla GNNs](https://arxiv.org/abs/2609.11347v1)** | 2026-09-10 |  |
 | **[Chimaera: A Mixture-of-Graph-Experts Architecture for Cross-Task and Cross-Dataset Graph Learning](https://arxiv.org/abs/2609.08709v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted at WI-IAT 2026</p></details> |
 | **[Towards Unified Multimodal Graph Foundation Model: A Bridge-Router-Adapter Based Approach](https://arxiv.org/abs/2609.06668v1)** | 2026-09-06 |  |
 | **[A Graph Foundation Model for Large-Scale MIMO Detection](https://arxiv.org/abs/2609.06361v1)** | 2026-09-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
@@ -30,11 +31,11 @@ labels: documentation
 | **[Trojaning the Alignment: Stealthy Backdoor Attacks against Graph Foundation Models](https://arxiv.org/abs/2608.20991v2)** | 2026-08-26 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026</p></details> |
 | **[ReCoG: Reciprocal Co-Evolution for Multimodal Graph Learning](https://arxiv.org/abs/2608.22786v1)** | 2026-08-24 |  |
 | **[GraphPFN: A Prior-Data Fitted Graph Foundation Model](https://arxiv.org/abs/2509.21489v4)** | 2026-08-20 |  |
-| **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v2)** | 2026-08-13 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mapping Text to Multiplex Graph: Prompt Compression as Lévy Walk-Guided Graph Pruning](https://arxiv.org/abs/2607.01241v2)** | 2026-09-14 |  |
 | **[Chimaera: A Mixture-of-Graph-Experts Architecture for Cross-Task and Cross-Dataset Graph Learning](https://arxiv.org/abs/2609.08709v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted at WI-IAT 2026</p></details> |
 | **[Task-Specific Prompt with Global Context for Multi-Task Graph Pre-Training](https://arxiv.org/abs/2609.00047v1)** | 2026-08-30 | 16 pages, 6 figures |
 | **[Let Prompts Bridge Defense Knowledge: Transferable Graph Purification via Vulnerability-Aware GPL](https://arxiv.org/abs/2608.29054v1)** | 2026-08-29 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 34th ACM International Conference on Multimedia (MM '26). 10 pages, 7 figures, and 4 tables. Shuomin Xue and Jingyuan Li contributed equally to this work</p></details> |
@@ -44,7 +45,6 @@ labels: documentation
 | **[Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions](https://arxiv.org/abs/2607.03233v1)** | 2026-07-03 | 36 Pages |
 | **[Freeze, Prompt, and Adapt: A Framework for Source-free Unsupervised GNN Prompting](https://arxiv.org/abs/2505.16903v2)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted to TMLR 2026</p></details> |
 | **[Representation Matters: An Empirical Study of Program Representations for LLM Vulnerability Reasoning](https://arxiv.org/abs/2606.25356v1)** | 2026-06-24 | 34 pages, 4 figures |
-| **[PromptDyG: Test-Time Prompt Adaptation on Dynamic Graphs](https://arxiv.org/abs/2606.22914v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Model Predictive Control of Tensegrity Robots via Contact-Aware Graph Neural Dynamics Model](https://arxiv.org/abs/2609.08958v1)** | 2026-09-08 |  |
-| **[Any-Dimensional Learning by Sampling](https://arxiv.org/abs/2607.07680v2)** | 2026-09-08 | <details><summary>Impro...</summary><p>Improved sketching rates for transformers and generalization rates for polynomials</p></details> |
-| **[HOPE: Heterophily-Aware Open-Set Node Classification with Pseudo-Extrapolation](https://arxiv.org/abs/2609.08685v1)** | 2026-09-08 |  |
-| **[Learning to build covering structures with continuous adjustments](https://arxiv.org/abs/2609.08669v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted in IROS 2026</p></details> |
-| **[Leveraging contextual events on structure-aware next activity prediction](https://arxiv.org/abs/2609.08622v1)** | 2026-09-08 |  |
-| **[TTGBench: Benchmarking Topological Evolution and Semantic Drift in Text-attributed Temporal Graphs](https://arxiv.org/abs/2609.08226v1)** | 2026-09-08 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 22 tables</p></details> |
-| **[Geometry-Informed Distributed Acoustic Scene Understanding](https://arxiv.org/abs/2609.08026v1)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted by Interspeech 2026 Conference</p></details> |
-| **[$α$-Graph: Attention-Infused Normalizing Flow Approach to Tractable Graph Modeling](https://arxiv.org/abs/2609.07961v1)** | 2026-09-07 |  |
-| **[Statistical versus machine learning-based spatial interpolation of post-processed ensemble weather forecasts](https://arxiv.org/abs/2609.07512v1)** | 2026-09-07 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, 15 tables</p></details> |
-| **[Graph neural networks and the energetic cavity method for combinatorial optimization](https://arxiv.org/abs/2609.07456v1)** | 2026-09-07 |  |
+| **[SEMA-GUARD: Semantic and Graph-Based Vulnerability Detection in Assembly Code](https://arxiv.org/abs/2609.17254v1)** | 2026-09-15 |  |
+| **[GraphIFE: Rethinking Graph Imbalance Node Classification via Invariant Learning](https://arxiv.org/abs/2509.23616v2)** | 2026-09-15 | <details><summary>PrePr...</summary><p>PrePrint, 16 pages, 6 tables, 8 figures</p></details> |
+| **[Repurposing Unified Topological Signatures for Graph Representation Learning](https://arxiv.org/abs/2609.17061v1)** | 2026-09-15 |  |
+| **[Structural Negative Transfer in Federated Graph Neural Networks: Diagnosis, Causal Investigation, and the Limits of Divergence-Aware Mitigation](https://arxiv.org/abs/2609.16977v1)** | 2026-09-15 | Working Paper Draft |
+| **[Fidelity-Aware Scheduling of Quantum Circuits on Multi-QPU Systems](https://arxiv.org/abs/2609.09980v2)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at the 2nd International Workshop for Software Frameworks and Workload Management on Quantum and HPC Ecosystems (SFWM), co-located with SC26</p></details> |
+| **[ProIQA: A Process-Based Framework for Fine-Grained Math Item Quality Assessment](https://arxiv.org/abs/2609.15292v2)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted by ICDM 2026, project: https://github.com/qky7/ProIQA</p></details> |
+| **[Unified Heterogeneous Graph Neural Network solver for Power Flow, Optimal Power Flow and State Estimation](https://arxiv.org/abs/2609.16738v1)** | 2026-09-15 |  |
+| **[Learning with Covariance Matrices: Principal Component Analysis Meets Learning with Graphs](https://arxiv.org/abs/2609.10490v2)** | 2026-09-14 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Signal Processing Magazine</p></details> |
+| **[Cross-Document Neural Re-Ranking via Query-Induced Subgraphs](https://arxiv.org/abs/2406.11720v2)** | 2026-09-14 | <details><summary>Accep...</summary><p>Accepted at AIxIA 2026. Author's accepted manuscript. Not the version of record</p></details> |
+| **[Complete Suffix Prediction for Recommendation via Latent Retrieval over Process Graphs](https://arxiv.org/abs/2609.15692v1)** | 2026-09-14 |  |
 
