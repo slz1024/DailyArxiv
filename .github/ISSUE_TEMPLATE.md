@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - September 24, 2026
+title: Latest 10 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ICE: Task-Aligned Clifford Latent Fields for Multimodal Graph Foundation Models](https://arxiv.org/abs/2609.29398v1)** | 2026-09-24 |  |
 | **[SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory](https://arxiv.org/abs/2605.12061v2)** | 2026-09-22 |  |
 | **[LADDER: Graph-Guided Diffusion Language Models for Efficient Multi-Hop Reasoning](https://arxiv.org/abs/2609.24346v1)** | 2026-09-21 |  |
 | **[SCGFM-ART: Amortized Relational Transport for Structure-Centric Graph Foundation Models](https://arxiv.org/abs/2609.20419v1)** | 2026-09-17 | 21 pages, 6 figures |
@@ -30,7 +31,6 @@ labels: documentation
 | **[A Graph Foundation Model for Large-Scale MIMO Detection](https://arxiv.org/abs/2609.06361v1)** | 2026-09-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Graph Foundation Models for Recommendation: A Comprehensive Survey](https://arxiv.org/abs/2502.08346v4)** | 2026-09-04 |  |
 | **[LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models](https://arxiv.org/abs/2503.03313v4)** | 2026-09-02 | EMNLP 2026 |
-| **[Breaking the Reasoning Horizon in Entity Alignment Foundation Models](https://arxiv.org/abs/2601.21174v3)** | 2026-09-01 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Diffusion-Induced Spatial Attention Overlapping Community Detection](https://arxiv.org/abs/2609.26737v1)** | 2026-09-22 |  |
-| **[PreGS: A Parameter-Transfer-Based Multi-Expert Graph Neural Network for Node Classification](https://arxiv.org/abs/2609.26310v1)** | 2026-09-22 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 7 tables</p></details> |
-| **[CacheDyG: Decoupling Temporal Propagation for Efficient Dynamic Graph Learning](https://arxiv.org/abs/2609.25814v1)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted at ADMA 2026. 17 pages, 3 figures</p></details> |
-| **[Signed Graph Pre-Training and Prompt Learning](https://arxiv.org/abs/2609.25722v1)** | 2026-09-22 | <details><summary>25 pa...</summary><p>25 pages, 3 figures, Accepted to Learning on Graphs Conference (LoG 2026)</p></details> |
-| **[DefaultGNN: A Dual-Perspective GNN Framework for Predicting Corporate Default from Buyer-Seller Transaction Networks](https://arxiv.org/abs/2609.25542v1)** | 2026-09-22 | <details><summary>CIKM ...</summary><p>CIKM 2026 Applied Research Track</p></details> |
-| **[Deep Reinforcement Learning on Item-Compatibility Graphs for One-Dimensional Bin Packing](https://arxiv.org/abs/2609.25397v1)** | 2026-09-21 | <details><summary>29 pa...</summary><p>29 pages,3 figures, 8 tables</p></details> |
-| **[Spatiotemporal Kronecker Covariance Neural Networks](https://arxiv.org/abs/2609.25326v1)** | 2026-09-21 |  |
-| **[Residual Community Prototypes Under-Reject Held-Out Malware Families in FCG-MFD](https://arxiv.org/abs/2609.24980v1)** | 2026-09-21 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, 4 tables</p></details> |
-| **[GraphSVR: q-Space--Aware Graph-Based Slice-to-Volume Registration for Diffusion MRI](https://arxiv.org/abs/2609.24732v1)** | 2026-09-21 |  |
-| **[Multi-Term Fourier Graph Neural Network with Sample Relationship Learning for Enhanced Remaining Useful Life Prediction](https://arxiv.org/abs/2609.25179v1)** | 2026-09-21 |  |
+| **[GridSFM: A Foundation Model for Solving AC Optimal Power Flow](https://arxiv.org/abs/2609.30173v1)** | 2026-09-24 | 19 pages |
+| **[Graph-Based Inference and Topology-Aware Multi-Agent Reinforcement Learning for Large-Scale Railway Network Management](https://arxiv.org/abs/2609.30150v1)** | 2026-09-24 |  |
+| **[Reachability-Based Formal Verification of Graph Neural Networks with Node and Edge Features](https://arxiv.org/abs/2609.30079v1)** | 2026-09-24 |  |
+| **[NNV3: Expanding Neural Network Verification to New Architectures and Domains](https://arxiv.org/abs/2609.30050v1)** | 2026-09-24 |  |
+| **[TinyCardioUNet: IMU-to-ECG Translation with Graph-Encoded Inter-Axis Dependencies and Tensor Decomposition-Based Parameter Reduction](https://arxiv.org/abs/2609.29322v1)** | 2026-09-24 | <details><summary>The s...</summary><p>The source code and pretrained models are available at https://github.com/ttlabtuat/TinyCardioUNet</p></details> |
+| **[TrafficFab: An Autonomic Edge-Cloud Testbed Fabric forAI-Driven Traffic Management](https://arxiv.org/abs/2609.29223v1)** | 2026-09-24 |  |
+| **[Spectral Graph Neural Networks with Hermite Polynomials: A Comprehensive Study](https://arxiv.org/abs/2609.28979v1)** | 2026-09-24 |  |
+| **[The Mechanics of Delta Learning: Target Design for Generalizable Scientific Machine Learning](https://arxiv.org/abs/2609.28782v1)** | 2026-09-23 | <details><summary>41 pa...</summary><p>41 pages, including 24 pages of Supplementary Information; 4 main-text figures</p></details> |
+| **[A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops](https://arxiv.org/abs/2309.10164v3)** | 2026-09-23 |  |
+| **[Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory](https://arxiv.org/abs/2604.09320v6)** | 2026-09-23 | <details><summary>Main ...</summary><p>Main text: 24 pages, 11 figures, and 1 table. Supplementary Materials: 27 pages, 6 figures, 15 tables, 4 pseudo-algorithms</p></details> |
 
