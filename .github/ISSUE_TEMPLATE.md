@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 08, 2026
+title: Latest 10 Papers - October 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -49,8 +49,8 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning](https://arxiv.org/abs/2610.04850v2)** | 2026-10-06 | 12pages, 6figures |
 | **[Seeing the Context: Enhancing Recommender Systems with Image-Derived Contextual Signals](https://arxiv.org/abs/2610.08407v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the CARS workshop, RecSys 2026. 8 pages, 2 figures</p></details> |
-| **[PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning](https://arxiv.org/abs/2610.04850v1)** | 2026-10-04 | 12pages, 6figures |
 | **[Differentiable Koopman Operator for Contrastive Learning on Dynamic Graphs](https://arxiv.org/abs/2610.02990v1)** | 2026-10-02 |  |
 | **[Moment-guided edge sampling](https://arxiv.org/abs/2609.30472v1)** | 2026-09-24 | <details><summary>Code:...</summary><p>Code: https://github.com/Weibin44/Moment-guided-graph-sampling</p></details> |
 | **[HYDRA: Proactive Android Malware Drift Adaptation via Hierarchical Graph Contrastive Learning](https://arxiv.org/abs/2609.26352v1)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted at ACM CCS 2026. Author's version with full appendix. 17 pages</p></details> |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Uncertainty Quantification Is Indispensable for Reliable Connectome-Based Graph Learning: A Narrative Review and Case Study](https://arxiv.org/abs/2610.08353v1)** | 2026-10-06 |  |
-| **[Which alloy composition,what process parameters? Inferring the recipe from optimized metallic microstructure and texture](https://arxiv.org/abs/2610.08165v1)** | 2026-10-06 |  |
-| **[A Critical Audit of Spatiotemporal Forecasting Benchmark Datasets and Models](https://arxiv.org/abs/2608.20980v2)** | 2026-10-06 |  |
-| **[Textual Environmental Context and Spatial Graphs for LLM-Based Regional SST Forecasting](https://arxiv.org/abs/2610.07895v1)** | 2026-10-06 | preprint |
-| **[Complementary Supervised and Self-Supervised Representations for Out-of-Distribution Graph Learning](https://arxiv.org/abs/2610.07628v1)** | 2026-10-06 |  |
-| **[Two-Sample Testing for Random Graphs without Vertex Correspondence](https://arxiv.org/abs/2610.07503v1)** | 2026-10-05 |  |
-| **[Neural Algorithmic Reasoning for Graph Saddle Point Problems](https://arxiv.org/abs/2610.07255v1)** | 2026-10-05 |  |
-| **[SeedER: Seed-Expand-Retrieve for Efficient Knowledge Graph Retrieval](https://arxiv.org/abs/2605.23753v2)** | 2026-10-05 |  |
-| **[Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs](https://arxiv.org/abs/2610.06685v1)** | 2026-10-05 |  |
-| **[Inverse Cross-spectral Neural Networks for Multivariate Time Series](https://arxiv.org/abs/2610.06630v1)** | 2026-10-05 |  |
+| **[How Much Does Message Passing Matter? A Drop-In Study of GNN Layers for Neural Network Graph Regression](https://arxiv.org/abs/2607.26404v2)** | 2026-10-08 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, 25 tables</p></details> |
+| **[Using Weisfeiler-Leman Features for Algorithm Selection in Constraint Optimisation](https://arxiv.org/abs/2610.12119v1)** | 2026-10-08 |  |
+| **[MPGE: A Multi-Perspective Graph Explainer for Molecular Classification Explanation](https://arxiv.org/abs/2610.12039v1)** | 2026-10-08 |  |
+| **[BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation](https://arxiv.org/abs/2508.07106v2)** | 2026-10-08 | <details><summary>Camer...</summary><p>Camera-ready version. Published at MIDL 2026. Final version: https://proceedings.mlr.press/v315/huang26b.html</p></details> |
+| **[GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation](https://arxiv.org/abs/2607.28397v2)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted to AACL-IJCNLP 2026, 9 pages, 19 figures</p></details> |
+| **[Virtual Smart Metering in District Heating Networks via Heterogeneous Spatial-Temporal Graph Neural Networks](https://arxiv.org/abs/2604.10166v2)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted to Energy and Buildings</p></details> |
+| **[Evi-VN: Hard Region Guided Virtual Node Evidence Injection for GNN-Based Fraud Detection](https://arxiv.org/abs/2610.11665v1)** | 2026-10-08 | <details><summary>17 pa...</summary><p>17 pages, including supplementary material</p></details> |
+| **[Automated Detection of Match Phases in Football from Spatio-Temporal Tracking Data Using Graph Neural Networks](https://arxiv.org/abs/2610.11571v1)** | 2026-10-08 |  |
+| **[$C_4$-Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation](https://arxiv.org/abs/2610.11549v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 workshops on Representations for the Physical Sciences and Geometric Distributional Deep Learning. 12 pages, 2 figures, 1 table</p></details> |
+| **[Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering](https://arxiv.org/abs/2610.11506v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted by Proceedings of the Fourteenth International Conference on Learning Representations (ICLR 2026 Oral)</p></details> |
 
