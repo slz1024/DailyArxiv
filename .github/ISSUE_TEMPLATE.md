@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - October 29, 2026
+title: Latest 10 Papers - November 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning a Prior-Data Fitted Network for Graph Foundation Models via Structural Causal Model Priors](https://arxiv.org/abs/2610.38335v1)** | 2026-10-28 |  |
 | **[Every Little Helps: Building Knowledge Graph Foundation Model with Fine-grained Transferable Multi-modal Tokens](https://arxiv.org/abs/2602.15896v2)** | 2026-10-27 | Work in progress |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](https://arxiv.org/abs/2502.09254v3)** | 2026-10-27 | Accepted by KDD2025 |
 | **[UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning](https://arxiv.org/abs/2610.34866v1)** | 2026-10-26 | 16 pages, 8 figures |
@@ -30,7 +31,6 @@ labels: documentation
 | **[More Domains, No Gains? FLO: Fast-Slow Reciprocal Learning for Multi-Domain Graph Pre-training](https://arxiv.org/abs/2610.14748v1)** | 2026-10-10 | 28pages,7 figures |
 | **[To Learn is to Wander: Learning Across Graphs and Tasks with Random Walks](https://arxiv.org/abs/2610.06694v2)** | 2026-10-06 |  |
 | **[MAGIC: Topology-Aware Analytic Graph Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2610.04963v1)** | 2026-10-04 |  |
-| **[KGPFN: Unlocking the Potential of Knowledge Graph Foundation Model via In-Context Learning](https://arxiv.org/abs/2605.14907v2)** | 2026-10-02 |  |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -49,6 +49,7 @@ labels: documentation
 ## Graph Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAC-GCL: Structure-Aware Compression for Graph Contrastive Learning](https://arxiv.org/abs/2610.37898v1)** | 2026-10-27 |  |
 | **[PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning](https://arxiv.org/abs/2610.04850v3)** | 2026-10-25 | 12pages, 6figures |
 | **[POI Recommendation with LLM-Augmented Multi-Graph Learning and Contrastive Alignment](https://arxiv.org/abs/2608.16407v2)** | 2026-10-22 |  |
 | **[MCDA: Multi-View Graph Contrastive Learning with Dynamic Topology Augmentation for Functional MRI Analysis](https://arxiv.org/abs/2610.26322v1)** | 2026-10-19 | 14 pages, 8 figures |
@@ -58,19 +59,18 @@ labels: documentation
 | **[Moment-guided edge sampling](https://arxiv.org/abs/2609.30472v1)** | 2026-09-24 | <details><summary>Code:...</summary><p>Code: https://github.com/Weibin44/Moment-guided-graph-sampling</p></details> |
 | **[HYDRA: Proactive Android Malware Drift Adaptation via Hierarchical Graph Contrastive Learning](https://arxiv.org/abs/2609.26352v1)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted at ACM CCS 2026. Author's version with full appendix. 17 pages</p></details> |
 | **[Prototype-guided transfer of sparse literature knowledge for electrolyte additive discovery](https://arxiv.org/abs/2609.02209v1)** | 2026-09-02 | 79 pages, 26 figures |
-| **[MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation](https://arxiv.org/abs/2608.25381v1)** | 2026-08-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 7 tables. Accepted at WISE 2026</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Spectral Braids: A Topological Descriptor for Dynamic Directed Networks](https://arxiv.org/abs/2610.37580v1)** | 2026-10-27 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 2 tables. Accepted at the 2026 IEEE International Conference on Big Data (IEEE BigData 2026)</p></details> |
-| **[GTFormer: A Syntax-Free Graph Network Alternative to Transformers for 8192$\times$ Length Extrapolation in Linear Time](https://arxiv.org/abs/2610.37524v1)** | 2026-10-27 | 20 pages |
-| **[Graph Representation Learning via Adaptive Expectile Aggregation](https://arxiv.org/abs/2610.37450v1)** | 2026-10-27 |  |
-| **[Retrieve to Act: Motion Primitive Graph Retrieval for Robust VLA Execution](https://arxiv.org/abs/2610.37215v1)** | 2026-10-27 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, 7 tables</p></details> |
-| **[Flowette: Flow Matching with Graphette Priors for Graph Generation](https://arxiv.org/abs/2602.23566v5)** | 2026-10-27 | 61 Pages |
-| **[GNN-Guided Network Reduction for Centralized Urban Traffic Routing](https://arxiv.org/abs/2610.36981v1)** | 2026-10-27 | <details><summary>Submi...</summary><p>Submitted for review to Computers & Operations Research</p></details> |
-| **[When Is a Cheap Fairness Edit Safe? Screening Post-Hoc Edits in Two-Sided Matching Markets](https://arxiv.org/abs/2610.36649v1)** | 2026-10-27 |  |
-| **[Robust GNN Watermarking via Implicit Perception of Topological Invariants](https://arxiv.org/abs/2510.25934v2)** | 2026-10-27 |  |
-| **[Learning atomic interactions for the thermodynamics of liquid mixtures](https://arxiv.org/abs/2610.36440v1)** | 2026-10-27 | <details><summary>30 pa...</summary><p>30 pages, 13 figures, 1 table</p></details> |
-| **[Bayesian Evidence Accumulation for Graph-Based Learning in Dynamic Data-Driven Applications Systems](https://arxiv.org/abs/2610.36190v1)** | 2026-10-26 |  |
+| **[Bridging Semantics and Structure: A Theoretically Grounded Framework for Link Prediction on TAGs](https://arxiv.org/abs/2610.40192v1)** | 2026-10-29 | <details><summary>33 pa...</summary><p>33 pages. Accepted for publication in ACM Transactions on Knowledge Discovery from Data (TKDD)</p></details> |
+| **[Incorporating graph neural network into route choice model](https://arxiv.org/abs/2503.02315v3)** | 2026-10-29 |  |
+| **[MUG: Multi-human Graph Network for 3D Mesh Reconstruction from 2D Pose](https://arxiv.org/abs/2205.12583v4)** | 2026-10-29 | <details><summary>Publi...</summary><p>Published in International Journal of Computer Vision (IJCV)</p></details> |
+| **[Deciding two-variable logic with global and local Presburger quantification](https://arxiv.org/abs/2610.39108v1)** | 2026-10-29 |  |
+| **[Open-World Object Motion Anticipation via Meta-Learned Semantic Adaptation](https://arxiv.org/abs/2610.38993v1)** | 2026-10-28 | 9 pages, 7 figures |
+| **[Benchmarking Graph Neural Networks for AC Power Flow: The Role of Inductive Biases and Physical Constraints](https://arxiv.org/abs/2610.38985v1)** | 2026-10-28 |  |
+| **[Self-Learning Surprise Detection in Spatial Audio for Viewport-Aware 360-Video Streaming](https://arxiv.org/abs/2601.02629v3)** | 2026-10-28 | <details><summary>Accep...</summary><p>Accepted at IEEE ICME 2026. 6 pages, 5 figures, 2 tables. Accepted manuscript; replaces the v2 withdrawal notice</p></details> |
+| **[Graph-Based Recognition of Simulated Train-Driver States From Facial and Upper-Body Keypoints](https://arxiv.org/abs/2610.07083v2)** | 2026-10-28 |  |
+| **[Recurrent Bipartite Graph Neural Networks for QC-MDPC Error Decoding in McEliece Cryptosystems](https://arxiv.org/abs/2610.38479v1)** | 2026-10-28 | 19 pages |
+| **[Morphological Decoupling-Based Skeletal Classification for Clinical Assessment of Malocclusion](https://arxiv.org/abs/2609.09801v2)** | 2026-10-28 | <details><summary>Accep...</summary><p>Accepted by Biocybernetics and Biomedical Engineering</p></details> |
 
