@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 05, 2026
+title: Latest 10 Papers - November 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Graph Foundation Model
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Foundation Models Can Become Effective Multivariate Time Series Anomaly Detectors](https://arxiv.org/abs/2611.06441v1)** | 2026-11-04 |  |
 | **[A Common Language for Dynamic Graphs: Interaction Tokenization Enables Foundation Models](https://arxiv.org/abs/2611.03246v1)** | 2026-11-02 | 13 pages, 6 figures |
 | **[GRATE: Temporal Extensions for Inductive KG Foundation Models via Gated Rotary Attention](https://arxiv.org/abs/2607.10197v2)** | 2026-11-02 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Workshop on Graph Foundation Models: A New Era for Graph Machine Learning. 17 pages, 4 figures</p></details> |
 | **[ReCoG: Relative Node Contexts for Multi-Domain Graph Pre-training](https://arxiv.org/abs/2611.01753v1)** | 2026-11-01 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 8 tables</p></details> |
@@ -30,7 +31,6 @@ labels: documentation
 | **[Every Little Helps: Building Knowledge Graph Foundation Model with Fine-grained Transferable Multi-modal Tokens](https://arxiv.org/abs/2602.15896v2)** | 2026-10-27 | Work in progress |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](https://arxiv.org/abs/2502.09254v3)** | 2026-10-27 | Accepted by KDD2025 |
 | **[UniGFM-RAG: Unify Graph Foundation Models and Large Language Models for End-to-End Retrieval and Reasoning](https://arxiv.org/abs/2610.34866v1)** | 2026-10-26 | 16 pages, 8 figures |
-| **[Chimaera: A Mixture-of-Graph-Experts Architecture for Cross-Task and Cross-Dataset Graph Learning](https://arxiv.org/abs/2609.08709v2)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted at WI-IAT 2026</p></details> |
 
 ## Graph Prompt
 | **Title** | **Date** | **Comment** |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[What Does It Mean to Remove an Edge? Intervention-Aware Fidelity for Graph Neural Network Explanations](https://arxiv.org/abs/2611.04751v1)** | 2026-11-03 | <details><summary>15 pa...</summary><p>15 pages, 2 figures. Under review</p></details> |
-| **[Sheaf-MPNN: A Library for Sheaf Neural Networks as Message Passing](https://arxiv.org/abs/2611.04670v1)** | 2026-11-03 |  |
-| **[Leakage-free evaluation of residual graph convolutional networks for network intrusion detection](https://arxiv.org/abs/2611.04660v1)** | 2026-11-03 |  |
-| **[Theory-guided relational learning for data product pricing: An interpretable meta-path-guided graph neural network approach](https://arxiv.org/abs/2611.04508v1)** | 2026-11-03 |  |
-| **[LENS: Reliability-Aware Stock Prediction via LLM-Extracted Priors and News-Driven Semantic Graphs](https://arxiv.org/abs/2611.04217v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026. 12 pages, 3 figures</p></details> |
-| **[RGDM: Robust Graph Diffusion Model](https://arxiv.org/abs/2611.04146v1)** | 2026-11-03 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
-| **[Certifying Graph Neural Networks Against Label and Structure Poisoning](https://arxiv.org/abs/2611.03350v1)** | 2026-11-02 | <details><summary>Publi...</summary><p>Published at the International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Resilient Cell-Free MIMO ISAC Under Uncertainties: An Impairment-Aware Graph Neural Network Framework](https://arxiv.org/abs/2611.03054v1)** | 2026-11-02 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table, submitted to IEEE ICC 2027</p></details> |
-| **[Control Foundation Models across Changing Block Diagrams: Generalizing Time-Series Prediction to Dynamic Graphs](https://arxiv.org/abs/2611.02900v1)** | 2026-11-02 |  |
-| **[Knowledge Based Wind Turbine Gearbox Fault Detection Using Sparse Filtering and Graph Neural Networks](https://arxiv.org/abs/2303.03496v2)** | 2026-11-02 |  |
+| **[Module-Aware Optimization for Graph Neural Networks](https://arxiv.org/abs/2611.08379v1)** | 2026-11-05 | NeurIPS 2026 |
+| **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v3)** | 2026-11-05 | NeurIPS 2026 |
+| **[Towards Generalist Graph-Level Anomaly Detection](https://arxiv.org/abs/2611.07706v1)** | 2026-11-05 | Accepted by NIPS26 |
+| **[CasHyper: Modeling Multi-Factor Interactions and Asymmetric Influence in Cascade Prediction via Hypercomplex Algebra](https://arxiv.org/abs/2611.07585v1)** | 2026-11-05 | 28 pages |
+| **[Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions](https://arxiv.org/abs/2611.07520v1)** | 2026-11-05 |  |
+| **[Variable-aware representation, not relation typing, explains the performance of an event-graph model for ICU mortality prediction: temporal and external validation](https://arxiv.org/abs/2608.02663v2)** | 2026-11-05 |  |
+| **[Formalizing Heterogeneous Interaction Modeling for Multi-Agent Debate in Visual Geo-Localization](https://arxiv.org/abs/2511.00908v3)** | 2026-11-05 |  |
+| **[Spectral symmetry fingerprints in equivariant representations](https://arxiv.org/abs/2611.07410v1)** | 2026-11-05 |  |
+| **[Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication](https://arxiv.org/abs/2611.07277v1)** | 2026-11-05 | <details><summary>Submi...</summary><p>Submitted to IEEE ICC 2027</p></details> |
+| **[B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data](https://arxiv.org/abs/2505.22252v2)** | 2026-11-05 | <details><summary>Publi...</summary><p>Published at NeurIPS 2026 (Evaluations & Datasets Track)</p></details> |
 
