@@ -1,5 +1,5 @@
 ---
-title: Latest 10 Papers - November 09, 2026
+title: Latest 10 Papers - November 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/yqhuang722/DailyArxiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Graph Pre-training
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Signed Graph Pre-Training and Prompt Learning](https://arxiv.org/abs/2609.25722v3)** | 2026-11-07 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, Accepted to Learning on Graphs Conference (LoG 2026)</p></details> |
 | **[ReCoG: Relative Node Contexts for Multi-Domain Graph Pre-training](https://arxiv.org/abs/2611.01753v1)** | 2026-11-01 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 8 tables</p></details> |
 | **[Versatile Graph Foundation Models from Frozen Time-Series Foundation Models via Parallel Flows](https://arxiv.org/abs/2611.00670v1)** | 2026-10-31 |  |
 | **[More Domains, No Gains? FLO: Fast-Slow Reciprocal Learning for Multi-Domain Graph Pre-training](https://arxiv.org/abs/2610.14748v1)** | 2026-10-10 | 28pages,7 figures |
 | **[Enhancing High-order Interaction Awareness in LLM-based Recommender Model](https://arxiv.org/abs/2409.19979v4)** | 2026-10-06 | <details><summary>Long ...</summary><p>Long paper accepted to EMNLP 2024 Main. 16 pages</p></details> |
-| **[Signed Graph Pre-Training and Prompt Learning](https://arxiv.org/abs/2609.25722v2)** | 2026-10-01 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, Accepted to Learning on Graphs Conference (LoG 2026)</p></details> |
 | **[ValueGraph: Value-Signal Guided Graph Pre-training for Contextualized User Representation](https://arxiv.org/abs/2609.00057v1)** | 2026-08-30 |  |
 | **[Task-Specific Prompt with Global Context for Multi-Task Graph Pre-Training](https://arxiv.org/abs/2609.00047v1)** | 2026-08-30 | 16 pages, 6 figures |
 | **[PreGress: Ranking-Native Pre-training and Prompting for Graph Node Ranking](https://arxiv.org/abs/2608.09016v1)** | 2026-08-10 |  |
@@ -63,14 +63,14 @@ labels: documentation
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Module-Aware Optimization for Graph Neural Networks](https://arxiv.org/abs/2611.08379v1)** | 2026-11-05 | NeurIPS 2026 |
-| **[Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry-Task Alignment](https://arxiv.org/abs/2602.01828v3)** | 2026-11-05 | NeurIPS 2026 |
-| **[Towards Generalist Graph-Level Anomaly Detection](https://arxiv.org/abs/2611.07706v1)** | 2026-11-05 | Accepted by NIPS26 |
-| **[CasHyper: Modeling Multi-Factor Interactions and Asymmetric Influence in Cascade Prediction via Hypercomplex Algebra](https://arxiv.org/abs/2611.07585v1)** | 2026-11-05 | 28 pages |
-| **[Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions](https://arxiv.org/abs/2611.07520v1)** | 2026-11-05 |  |
-| **[Variable-aware representation, not relation typing, explains the performance of an event-graph model for ICU mortality prediction: temporal and external validation](https://arxiv.org/abs/2608.02663v2)** | 2026-11-05 |  |
-| **[Formalizing Heterogeneous Interaction Modeling for Multi-Agent Debate in Visual Geo-Localization](https://arxiv.org/abs/2511.00908v3)** | 2026-11-05 |  |
-| **[Spectral symmetry fingerprints in equivariant representations](https://arxiv.org/abs/2611.07410v1)** | 2026-11-05 |  |
-| **[Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication](https://arxiv.org/abs/2611.07277v1)** | 2026-11-05 | <details><summary>Submi...</summary><p>Submitted to IEEE ICC 2027</p></details> |
-| **[B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data](https://arxiv.org/abs/2505.22252v2)** | 2026-11-05 | <details><summary>Publi...</summary><p>Published at NeurIPS 2026 (Evaluations & Datasets Track)</p></details> |
+| **[On the Potential of Graph Neural Networks as Metamodels for Supply Chain Optimization: Dataset, Architectures, and Directions](https://arxiv.org/abs/2607.16769v3)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted to Winter Simulation Conference 2026</p></details> |
+| **[GraphToolbox: A Configurable Framework for Controlled Benchmarking of Graph Neural Network Forecasting](https://arxiv.org/abs/2609.24609v2)** | 2026-11-10 |  |
+| **[Hierarchical Graph Representation Learning with Pooling-Induced Substructures](https://arxiv.org/abs/2611.14126v1)** | 2026-11-10 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[Resilient Integrated Access and Backhaul Network Planning via Graph Neural Network Curriculum Learning](https://arxiv.org/abs/2611.14042v1)** | 2026-11-10 |  |
+| **[ASPIRE: Make Spectral Graph Collaborative Filtering Great Again via Adaptive Filter Learning](https://arxiv.org/abs/2604.22549v2)** | 2026-11-10 |  |
+| **[DiffeoMorph: Learning Distributed 3D Morphogenesis with Rotation-Invariant Spectral Shape Matching](https://arxiv.org/abs/2512.17129v3)** | 2026-11-10 |  |
+| **[Early Rug Pull Detection on Solana](https://arxiv.org/abs/2611.13342v1)** | 2026-11-09 |  |
+| **[Transpilation-Aware Runtime Prediction for Noisy Quantum Circuit Simulation](https://arxiv.org/abs/2609.12980v2)** | 2026-11-09 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2026 AAAI Fall Symposium Series (Second AAAI Symposium on Quantum Information & Machine Learning)</p></details> |
+| **[QT-Net: Rethinking Evaluation of AI Models in Atomic Chemical Space](https://arxiv.org/abs/2605.10458v2)** | 2026-11-09 |  |
+| **[Pricing Symbolic Rules by What GNNs Leave Unlearned](https://arxiv.org/abs/2611.12446v1)** | 2026-11-09 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 10 tables. Accepted at the GraphML Workshop (Graph Machine Learning: Foundations, Frontiers, and Applications) at the 18th Asian Conference on Machine Learning (ACML 2026), Melbourne, Australia</p></details> |
 
